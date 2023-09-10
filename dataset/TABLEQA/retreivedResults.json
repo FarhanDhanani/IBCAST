@@ -1,0 +1,2402 @@
+[
+    {
+        "question": "Who won the 1982 Illinois gubernatorial election, and how many votes was the margin?",
+        "retrievedResults": {
+            "matches": [
+                {
+                    "id": "9",
+                    "score": 0.863334954,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Candidate\": [\"James R. Thompson (incumbent)\", \"Adlai Stevenson III\", \"Bea Armstrong\", \"John E. Roche\", \"write-ins\", \"Majority\", \"Turnout\", \"Republican hold\"], \"record\": \"1982 Illinois gubernatorial election Results\"}"
+                    }
+                },
+                {
+                    "id": "5",
+                    "score": 0.854783535,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Party\": \"Majority\", \"Candidate\": \"Majority\", \"Votes\": \"5,074\", \"%\": \"0.14\", \"\\u00b1\": \"-\", \"record\": \"1982 Illinois gubernatorial election Results\"}"
+                    }
+                },
+                {
+                    "id": "10",
+                    "score": 0.851418138,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Votes\": [\"1,816,101\", \"1,811,027\", \"24,417\", \"22,001\", \"161\", \"5,074\", \"3,673,707\", \"Swing\"], \"record\": \"1982 Illinois gubernatorial election Results\"}"
+                    }
+                },
+                {
+                    "id": "13",
+                    "score": 0.84969604,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"table_page_title\": \"1982 Illinois gubernatorial election\", \"record\": \"1982 Illinois gubernatorial election Results\"}"
+                    }
+                },
+                {
+                    "id": "6",
+                    "score": 0.844305754,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Party\": \"Turnout\", \"Candidate\": \"Turnout\", \"Votes\": \"3,673,707\", \"%\": \"-\", \"\\u00b1\": \"-\", \"record\": \"1982 Illinois gubernatorial election Results\"}"
+                    }
+                }
+            ],
+            "namespace": ""
+        }
+    },
+    {
+        "question": "How did Michael and Mario Andretti do?",
+        "retrievedResults": {
+            "matches": [
+                {
+                    "id": "46",
+                    "score": 0.81258136,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Finish\": \"32\", \"Start\": \"30\", \"No\": \"2\", \"Name\": \"United States Mario Andretti (W)\", \"Qual\": \"212.300\", \"Laps\": \"19\", \"Status\": \"Ignition\", \"record\": \"1986 Indianapolis 500 Race box score\"}"
+                    }
+                },
+                {
+                    "id": "20",
+                    "score": 0.800109744,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Finish\": \"6\", \"Start\": \"3\", \"No\": \"18\", \"Name\": \"United States Michael Andretti\", \"Qual\": \"214.522\", \"Laps\": \"199\", \"Status\": \"Flagged\", \"record\": \"1986 Indianapolis 500 Race box score\"}"
+                    }
+                },
+                {
+                    "id": "17",
+                    "score": 0.766679764,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Finish\": \"3\", \"Start\": \"1\", \"No\": \"4\", \"Name\": \"United States Rick Mears (W)\", \"Qual\": \"216.828\", \"Laps\": \"200\", \"Status\": \"+1.881 seconds\", \"record\": \"1986 Indianapolis 500 Race box score\"}"
+                    }
+                },
+                {
+                    "id": "51",
+                    "score": 0.765732169,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Name\": [\"United States Bobby Rahal\", \"United States Kevin Cogan\", \"United States Rick Mears (W)\", \"Colombia Roberto Guerrero\", \"United States Al Unser, Jr.\", \"United States Michael Andretti\", \"Brazil Emerson Fittipaldi\", \"United States Johnny Rutherford (W)\", \"United States Danny Sullivan (W)\", \"United States Randy Lanier (R)\", \"United States Gary Bettenhausen\", \"Australia Geoff Brabham\", \"Brazil Raul Boesel\", \"United States Dick Simon\", \"Netherlands Arie Luyendyk\", \"United States Pancho Carter\", \"United States Ed Pimm\", \"Mexico Josele Garza\", \"Brazil Roberto Moreno (R)\", \"Canada Jacques Villeneuve (R)\", \"United States Chip Ganassi\", \"United States Al Unser (W)\", \"United States Danny Ongais\", \"United States A. J. Foyt (W)\", \"United States Rich Vogler\", \"United States George Snider\", \"United States Johnny Parsons\", \"United States Tony Bettenhausen, Jr.\", \"United Kingdom Jim Crawford\", \"United States Scott Brayton\", \"United States Phil Krueger (R)\", \"United States Mario Andretti (W)\", \"United States Tom Sneva (W)\"], \"record\": \"1986 Indianapolis 500 Race box score\"}"
+                    }
+                },
+                {
+                    "id": "29",
+                    "score": 0.764971614,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Finish\": \"15\", \"Start\": \"19\", \"No\": \"61\", \"Name\": \"Netherlands Arie Luyendyk\", \"Qual\": \"207.811\", \"Laps\": \"188\", \"Status\": \"Crash T4\", \"record\": \"1986 Indianapolis 500 Race box score\"}"
+                    }
+                }
+            ],
+            "namespace": ""
+        }
+    },
+    {
+        "question": "How many copies did \"Pleasure\" sell in 1998 alone, and how long was it the best selling album in Japan?",
+        "retrievedResults": {
+            "matches": [
+                {
+                    "id": "58",
+                    "score": 0.832795739,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"No.\": \"2\", \"Album\": \"B'z The Best \\\"Pleasure\\\"\", \"Artist\": \"B'z\", \"Released\": \"20 May 1998\", \"Chart\": \"1\", \"Sales\": \"5,136,000\", \"record\": \"List of best-selling albums in Japan List of best-selling albums by domestic acts\"}"
+                    }
+                },
+                {
+                    "id": "80",
+                    "score": 0.830231667,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Released\": [\"10 March 1999\", \"20 May 1998\", \"1 October 1997\", \"28 March 2001\", \"20 September 1998\", \"28 March 2001\", \"31 March 1996\", \"19 June 2002\", \"25 June 1998\", \"28 June 2000\", \"15 April 1998\", \"1 September 1994\", \"22 July 1996\", \"5 March 1997\", \"6 November 1998\", \"12 March 1997\", \"14 November 1992\", \"25 July 1994\", \"28 May 1999\", \"27 September 2006\"], \"record\": \"List of best-selling albums in Japan List of best-selling albums by domestic acts\"}"
+                    }
+                },
+                {
+                    "id": "78",
+                    "score": 0.817863584,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Album\": [\"First Love\", \"B'z The Best \\\"Pleasure\\\"\", \"Review\", \"Distance\", \"B'z The Best \\\"Treasure\\\"\", \"A Best\", \"Globe\", \"Deep River\", \"Umi no Yeah!!\", \"Delicious Way\", \"Time to Destination\", \"Atomic Heart\", \"Sweet 19 Blues\", \"Bolero\", \"Neue Musik\", \"Faces Places\", \"The Swinging Star\", \"Impressions\", \"Zard Best the Single Collection \\uff5e\\u8ecc\\u8de1\\uff5e\", \"All Singles Best\"], \"record\": \"List of best-selling albums in Japan List of best-selling albums by domestic acts\"}"
+                    }
+                },
+                {
+                    "id": "67",
+                    "score": 0.815810859,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"No.\": \"11\", \"Album\": \"Time to Destination\", \"Artist\": \"Every Little Thing\", \"Released\": \"15 April 1998\", \"Chart\": \"1\", \"Sales\": \"3,520,000\", \"record\": \"List of best-selling albums in Japan List of best-selling albums by domestic acts\"}"
+                    }
+                },
+                {
+                    "id": "62",
+                    "score": 0.815,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"No.\": \"6\", \"Album\": \"A Best\", \"Artist\": \"Ayumi Hamasaki\", \"Released\": \"28 March 2001\", \"Chart\": \"1\", \"Sales\": \"4,312,000\", \"record\": \"List of best-selling albums in Japan List of best-selling albums by domestic acts\"}"
+                    }
+                }
+            ],
+            "namespace": ""
+        }
+    },
+    {
+        "question": "How many passengers can that plane hold?",
+        "retrievedResults": {
+            "matches": [
+                {
+                    "id": "91",
+                    "score": 0.797121286,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Passengers\": [\"180\", \"186\", \"-\"], \"record\": \"Tigerair Australia Fleet\"}"
+                    }
+                },
+                {
+                    "id": "1050",
+                    "score": 0.792234719,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Passengers\": [\"Total\", \"\\u2014\", \"\\u2014\", \"\\u2014\", \"\\u2014\"], \"record\": \"28th Air Detachment Fleet\"}"
+                    }
+                },
+                {
+                    "id": "1044",
+                    "score": 0.783287168,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Aircraft\": \"Dassault Falcon 2000\", \"Number\": \"1\", \"Orders\": \"0\", \"Passengers\": \"\\u2014\", \"Notes\": \"LZ-OOI\", \"record\": \"28th Air Detachment Fleet\"}"
+                    }
+                },
+                {
+                    "id": "86",
+                    "score": 0.781867325,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Aircraft\": \"Boeing 737-800\", \"In Service\": \"5\", \"Orders\": \"\\u2014\", \"Passengers\": \"186\", \"Notes\": \"Aircraft transferred from Virgin Australia\", \"record\": \"Tigerair Australia Fleet\"}"
+                    }
+                },
+                {
+                    "id": "1043",
+                    "score": 0.780255318,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Aircraft\": \"Airbus A319\", \"Number\": \"1\", \"Orders\": \"0\", \"Passengers\": \"\\u2014\", \"Notes\": \"LZ-AOB\", \"record\": \"28th Air Detachment Fleet\"}"
+                    }
+                }
+            ],
+            "namespace": ""
+        }
+    },
+    {
+        "question": "When and in what play did Platt appear at the Music Box Theatre?",
+        "retrievedResults": {
+            "matches": [
+                {
+                    "id": "95",
+                    "score": 0.827868462,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Year\": \"2002\", \"Production\": \"The Music Man\", \"Role\": \"Winthrop Paroo\", \"Venue\": \"Hollywood Bowl\", \"Notes\": \"Los Angeles\", \"record\": \"Ben Platt (actor) Theatre credits\"}"
+                    }
+                },
+                {
+                    "id": "108",
+                    "score": 0.820471287,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Production\": [\"The Music Man\", \"Caroline, or Change\", \"Dead End\", \"The Power of Duff\", \"The Black Suits\", \"The Book of Mormon\", \"The Book of Mormon\", \"Dear Evan Hansen\", \"The Secret Garden\", \"Dear Evan Hansen\", \"Dear Evan Hansen\", \"Parade\"], \"record\": \"Ben Platt (actor) Theatre credits\"}"
+                    }
+                },
+                {
+                    "id": "110",
+                    "score": 0.816458166,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Venue\": [\"Hollywood Bowl\", \"Ahmanson Theatre\", \"Ahmanson Theatre\", \"Powerhouse Theatre\", \"Center Theatre Group\", \"PrivateBank Theatre\", \"Eugene O'Neill Theatre\", \"Arena Stage\", \"David Geffen Hall\", \"Second Stage Theatre\", \"Music Box Theatre\", \"-\"], \"record\": \"Ben Platt (actor) Theatre credits\"}"
+                    }
+                },
+                {
+                    "id": "99",
+                    "score": 0.815221131,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Year\": \"2012\", \"Production\": \"The Black Suits\", \"Role\": \"Chris Thurser\", \"Venue\": \"Center Theatre Group\", \"Notes\": \"Regional\", \"record\": \"Ben Platt (actor) Theatre credits\"}"
+                    }
+                },
+                {
+                    "id": "97",
+                    "score": 0.812376499,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Year\": \"2005\", \"Production\": \"Dead End\", \"Role\": \"Philip Griswald\", \"Venue\": \"Ahmanson Theatre\", \"Notes\": \"Regional\", \"record\": \"Ben Platt (actor) Theatre credits\"}"
+                    }
+                }
+            ],
+            "namespace": ""
+        }
+    },
+    {
+        "question": "What are the download rates of EUTRAN?",
+        "retrievedResults": {
+            "matches": [
+                {
+                    "id": "137",
+                    "score": 0.84953171,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Max. L1 data rate Downlink (Mbit/s)\": [\"0.68\", \"1.0\", \"1.0\", \"10.3\", \"51.0\", \"102.0\", \"150.8\", \"299.6\", \"301.5\", \"301.5\", \"2,998.6\", \"452.2\", \"452.2\", \"603.0\", \"603.0\", \"391.7\", \"391.7\", \"750\", \"979\", \"25,065\", \"1,174\", \"1,566\"], \"record\": \"E-UTRA User Equipment (UE) categories\"}"
+                    }
+                },
+                {
+                    "id": "130",
+                    "score": 0.839165747,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"User equipment Category\": \"14\", \"Max. L1 data rate Downlink (Mbit/s)\": \"391.7\", \"Max. number of DL MIMO layers\": \"8\", \"Max. L1 data rate Uplink (Mbit/s)\": \"9,585\", \"3GPP Release\": \"Rel 12\", \"record\": \"E-UTRA User Equipment (UE) categories\"}"
+                    }
+                },
+                {
+                    "id": "139",
+                    "score": 0.836878,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Max. L1 data rate Uplink (Mbit/s)\": [\"1.0\", \"1.0\", \"1.0\", \"5.2\", \"25.5\", \"51.0\", \"51.0\", \"75.4\", \"51.0\", \"102.0\", \"1,497.8\", \"51.0\", \"102.0\", \"51.0\", \"102.0\", \"150.8\", \"9,585\", \"226\", \"n/a\", \"n/a\", \"n/a\", \"n/a\"], \"record\": \"E-UTRA User Equipment (UE) categories\"}"
+                    }
+                },
+                {
+                    "id": "124",
+                    "score": 0.835892,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"User equipment Category\": \"8\", \"Max. L1 data rate Downlink (Mbit/s)\": \"2,998.6\", \"Max. number of DL MIMO layers\": \"8\", \"Max. L1 data rate Uplink (Mbit/s)\": \"1,497.8\", \"3GPP Release\": \"Rel 10\", \"record\": \"E-UTRA User Equipment (UE) categories\"}"
+                    }
+                },
+                {
+                    "id": "129",
+                    "score": 0.835558832,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"User equipment Category\": \"13\", \"Max. L1 data rate Downlink (Mbit/s)\": \"391.7\", \"Max. number of DL MIMO layers\": \"2 or 4\", \"Max. L1 data rate Uplink (Mbit/s)\": \"150.8\", \"3GPP Release\": \"Rel 12\", \"record\": \"E-UTRA User Equipment (UE) categories\"}"
+                    }
+                }
+            ],
+            "namespace": ""
+        }
+    },
+    {
+        "question": "What roles did Melina Kanakaredes play in the television dramas; \"Providence (1999\u20132002)\", \"CSI: NY (2004\u20132010)\",\"Guiding Light\"?",
+        "retrievedResults": {
+            "matches": [
+                {
+                    "id": "151",
+                    "score": 0.863972068,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Year\": \"1999\\u20132002\", \"Title\": \"Providence\", \"Role\": \"Dr. Sydney Hansen\", \"Notes\": \"Lead role\", \"record\": \"Melina Kanakaredes Television\"}"
+                    }
+                },
+                {
+                    "id": "143",
+                    "score": 0.859072745,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Year\": \"1991\\u20131995\", \"Title\": \"Guiding Light\", \"Role\": \"Eleni Andros Cooper\", \"Notes\": \"Main cast\", \"record\": \"Melina Kanakaredes Television\"}"
+                    }
+                },
+                {
+                    "id": "160",
+                    "score": 0.853232265,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Title\": [\"Guiding Light\", \"Due South\", \"New York News\", \"NYPD Blue\", \"Leaving L.A.\", \"The Practice\", \"Oz\", \"Saint Maybe\", \"Providence\", \"CSI: Miami\", \"CSI: NY\", \"Into the Fire\", \"Hawaii Five-0\", \"Extant\", \"Notorious\", \"The Resident\"], \"record\": \"Melina Kanakaredes Television\"}"
+                    }
+                },
+                {
+                    "id": "153",
+                    "score": 0.852771938,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Year\": \"2004\\u20132010\", \"Title\": \"CSI: NY\", \"Role\": \"Detective Stella Bonasera\", \"Notes\": \"Lead role\", \"record\": \"Melina Kanakaredes Television\"}"
+                    }
+                },
+                {
+                    "id": "145",
+                    "score": 0.849284828,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Year\": \"1995\", \"Title\": \"New York News\", \"Role\": \"Angela Villanova\", \"Notes\": \"13 episodes\", \"record\": \"Melina Kanakaredes Television\"}"
+                    }
+                }
+            ],
+            "namespace": ""
+        }
+    },
+    {
+        "question": "What two teams did Austin Fyten play for during the 2015-16 season, and what league was the first team in?",
+        "retrievedResults": {
+            "matches": [
+                {
+                    "id": "167",
+                    "score": 0.822093785,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"-\": \"8\", \"Regular season\": \"46\", \"Playoffs\": \"5\", \"record\": \"Austin Fyten Career statistics\"}"
+                    }
+                },
+                {
+                    "id": "180",
+                    "score": 0.820242465,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"-\": \"28\", \"Regular season\": \"20\", \"Playoffs\": \"11\", \"record\": \"Austin Fyten Career statistics\"}"
+                    }
+                },
+                {
+                    "id": "168",
+                    "score": 0.820188224,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"-\": \"18\", \"Regular season\": \"12\", \"Playoffs\": \"2\", \"record\": \"Austin Fyten Career statistics\"}"
+                    }
+                },
+                {
+                    "id": "175",
+                    "score": 0.818043947,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"-\": \"10\", \"Regular season\": \"41\", \"Playoffs\": \"6\", \"record\": \"Austin Fyten Career statistics\"}"
+                    }
+                },
+                {
+                    "id": "166",
+                    "score": 0.815924466,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"-\": \"6\", \"Regular season\": \"39\", \"Playoffs\": \"3\", \"record\": \"Austin Fyten Career statistics\"}"
+                    }
+                }
+            ],
+            "namespace": ""
+        }
+    },
+    {
+        "question": "What countries did the World U-17 Hockey Challenge attract after 2016?",
+        "retrievedResults": {
+            "matches": [
+                {
+                    "id": "215",
+                    "score": 0.84530437,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Year\": \"1998 II\", \"Gold\": \"Canada West\", \"Silver\": \"United States\", \"Bronze\": \"Finland\", \"Host city (cities)\": \"Saskatchewan Swift Current\", \"record\": \"World U-17 Hockey Challenge Results\"}"
+                    }
+                },
+                {
+                    "id": "200",
+                    "score": 0.843376935,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Year\": \"2013\", \"Gold\": \"Sweden\", \"Silver\": \"Russia\", \"Bronze\": \"United States\", \"Host city (cities)\": \"Quebec Drummondville and Victoriaville\", \"record\": \"World U-17 Hockey Challenge Results\"}"
+                    }
+                },
+                {
+                    "id": "196",
+                    "score": 0.84283483,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Year\": \"2016\", \"Gold\": \"Sweden\", \"Silver\": \"Canada Black\", \"Bronze\": \"Russia\", \"Host city (cities)\": \"Ontario Sault Ste. Marie\", \"record\": \"World U-17 Hockey Challenge Results\"}"
+                    }
+                },
+                {
+                    "id": "207",
+                    "score": 0.836157084,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Year\": \"2006\", \"Gold\": \"Canada Quebec\", \"Silver\": \"United States\", \"Bronze\": \"Czech Republic\", \"Host city (cities)\": \"Saskatchewan Balgonie / Fort Qu'Appelle / Indian Head / Milestone / Moose Jaw / Regina / Southey / Weyburn\", \"record\": \"World U-17 Hockey Challenge Results\"}"
+                    }
+                },
+                {
+                    "id": "195",
+                    "score": 0.835274279,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Year\": \"2017\", \"Gold\": \"United States\", \"Silver\": \"Canada Red\", \"Bronze\": \"Czech Republic\", \"Host city (cities)\": \"British Columbia Dawson Creek and Fort St. John\", \"record\": \"World U-17 Hockey Challenge Results\"}"
+                    }
+                }
+            ],
+            "namespace": ""
+        }
+    },
+    {
+        "question": "Which club did Renato Hyshmeri play with in the 2014\u201315 Albanian Superliga season after leaving Partizani?",
+        "retrievedResults": {
+            "matches": [
+                {
+                    "id": "243",
+                    "score": 0.882120967,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Club\": \"Partizani Tirana\", \"Season\": \"2013\\u201314\", \"League\": \"4\", \"Cup\": \"0\", \"Europe\": \"\\u2014\", \"Total\": \"4\", \"record\": \"Renato Hyshmeri Career statistics\"}"
+                    }
+                },
+                {
+                    "id": "244",
+                    "score": 0.865513742,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Club\": \"Tirana\", \"Season\": \"2014\\u201315\", \"League\": \"2\", \"Cup\": \"0\", \"Europe\": \"\\u2014\", \"Total\": \"2\", \"record\": \"Renato Hyshmeri Career statistics\"}"
+                    }
+                },
+                {
+                    "id": "246",
+                    "score": 0.858457,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Club\": \"Bylis Ballsh\", \"Season\": \"2016\\u201317\", \"League\": \"5\", \"Cup\": \"0\", \"Europe\": \"\\u2014\", \"Total\": \"5\", \"record\": \"Renato Hyshmeri Career statistics\"}"
+                    }
+                },
+                {
+                    "id": "245",
+                    "score": 0.85512197,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Club\": \"Bylis Ballsh\", \"Season\": \"2015\\u201316\", \"League\": \"1\", \"Cup\": \"0\", \"Europe\": \"\\u2014\", \"Total\": \"1\", \"record\": \"Renato Hyshmeri Career statistics\"}"
+                    }
+                },
+                {
+                    "id": "233",
+                    "score": 0.855081201,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Club\": \"Elbasani\", \"Season\": \"2006\\u201307\", \"League\": \"1\", \"Cup\": \"0\", \"Europe\": \"\\u2014\", \"Total\": \"1\", \"record\": \"Renato Hyshmeri Career statistics\"}"
+                    }
+                }
+            ],
+            "namespace": ""
+        }
+    },
+    {
+        "question": "Which candidate won the 1990 Civic Forum leadership election and how many votes did they receive compared to their competitor?",
+        "retrievedResults": {
+            "matches": [
+                {
+                    "id": "262",
+                    "score": 0.868609309,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Votes\": [\"115\", \"52\"], \"record\": \"1990 Civic Forum leadership election Voting\"}"
+                    }
+                },
+                {
+                    "id": "264",
+                    "score": 0.859007835,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"table_page_title\": \"1990 Civic Forum leadership election\", \"record\": \"1990 Civic Forum leadership election Voting\"}"
+                    }
+                },
+                {
+                    "id": "261",
+                    "score": 0.845539868,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Candidate\": [\"V\\u00e1clav Klaus\", \"Martin Palou\\u0161\"], \"record\": \"1990 Civic Forum leadership election Voting\"}"
+                    }
+                },
+                {
+                    "id": "265",
+                    "score": 0.842108846,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"table_section_title\": \"Voting\", \"record\": \"1990 Civic Forum leadership election Voting\"}"
+                    }
+                },
+                {
+                    "id": "259",
+                    "score": 0.840280592,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Candidate\": \"V\\u00e1clav Klaus\", \"Votes\": \"115\", \"-\": \"-\", \"record\": \"1990 Civic Forum leadership election Voting\"}"
+                    }
+                }
+            ],
+            "namespace": ""
+        }
+    },
+    {
+        "question": "Who were the top two candidates in the election, and how many votes did each receive?",
+        "retrievedResults": {
+            "matches": [
+                {
+                    "id": "774",
+                    "score": 0.821254075,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Candidate\": [\"Franklin D. Roosevelt\", \"Herbert Hoover (inc.)\", \"Norman Thomas\", \"William Hope Harvey\", \"William Z. Foster\", \"Total votes\"], \"record\": \"1932 United States presidential election in North Dakota Results\"}"
+                    }
+                },
+                {
+                    "id": "9",
+                    "score": 0.81328,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Candidate\": [\"James R. Thompson (incumbent)\", \"Adlai Stevenson III\", \"Bea Armstrong\", \"John E. Roche\", \"write-ins\", \"Majority\", \"Turnout\", \"Republican hold\"], \"record\": \"1982 Illinois gubernatorial election Results\"}"
+                    }
+                },
+                {
+                    "id": "723",
+                    "score": 0.807576597,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Party\": \"Total votes\", \"Candidate\": \"Total votes\", \"Votes\": \"5,951,561\", \"%\": \"-\", \"record\": \"Annette Taddeo Early elections, 2008\\u20132016\"}"
+                    }
+                },
+                {
+                    "id": "767",
+                    "score": 0.807182848,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Party\": \"Democratic\", \"Candidate\": \"Franklin D. Roosevelt\", \"Votes\": \"178,350\", \"%\": \"69.59%\", \"record\": \"1932 United States presidential election in North Dakota Results\"}"
+                    }
+                },
+                {
+                    "id": "10",
+                    "score": 0.806622207,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Votes\": [\"1,816,101\", \"1,811,027\", \"24,417\", \"22,001\", \"161\", \"5,074\", \"3,673,707\", \"Swing\"], \"record\": \"1982 Illinois gubernatorial election Results\"}"
+                    }
+                }
+            ],
+            "namespace": ""
+        }
+    },
+    {
+        "question": "Where did Luchia Yishak place in the 3000m in the 1991 All-Africa Games? ",
+        "retrievedResults": {
+            "matches": [
+                {
+                    "id": "276",
+                    "score": 0.891002595,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Year\": \"1989\", \"Competition\": \"African Championships\", \"Venue\": \"Lagos, Nigeria\", \"Position\": \"3rd\", \"Notes\": \"3000 metres\", \"record\": \"Luchia Yishak Competition record\"}"
+                    }
+                },
+                {
+                    "id": "283",
+                    "score": 0.890670419,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Year\": \"1991\", \"Competition\": \"All-Africa Games\", \"Venue\": \"Cairo, Egypt\", \"Position\": \"2nd\", \"Notes\": \"3000 m\", \"record\": \"Luchia Yishak Competition record\"}"
+                    }
+                },
+                {
+                    "id": "279",
+                    "score": 0.881124139,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Year\": \"1990\", \"Competition\": \"African Championships\", \"Venue\": \"Cairo, Egypt\", \"Position\": \"2nd\", \"Notes\": \"3000 metres\", \"record\": \"Luchia Yishak Competition record\"}"
+                    }
+                },
+                {
+                    "id": "290",
+                    "score": 0.874240637,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Year\": \"1996\", \"Competition\": \"Olympic Games\", \"Venue\": \"Atlanta, United States\", \"Position\": \"13th (heats)\", \"Notes\": \"5000 m\", \"record\": \"Luchia Yishak Competition record\"}"
+                    }
+                },
+                {
+                    "id": "286",
+                    "score": 0.866526723,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Year\": \"1992\", \"Competition\": \"African Championships\", \"Venue\": \"Belle Vue Maurel, Mauritius\", \"Position\": \"3rd\", \"Notes\": \"10,000 m\", \"record\": \"Luchia Yishak Competition record\"}"
+                    }
+                }
+            ],
+            "namespace": ""
+        }
+    },
+    {
+        "question": "Who were the sponsors for the away shirts of Colchester United FC?",
+        "retrievedResults": {
+            "matches": [
+                {
+                    "id": "330",
+                    "score": 0.830743432,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Shirt (away)\": [\"None\", \"None\", \"Royal London Group\", \"Royal London Group\", \"0800 Linkline\", \"Norcross Estates\", \"Norcross Estates\", \"Holimarine\", \"Colchester Hippodrome\", \"The Sun\", \"Strovers\", \"SGR Colchester\", \"SGR Colchester\", \"Goldstar Fabrications\", \"Guardian Direct\", \"Ashby's\", \"Ridley's\", \"Tiptree Jams\", \"ICS Triplex\", \"188Trades.com\", \"Smart Energy\", \"Smart Energy\", \"Smart Energy\", \"JobServe\", \"ROL Cruise\", \"JobServe\", \"JobServe\", \"JobServe\", \"JobServe\"], \"record\": \"Colchester United F.C. Colours and crest\"}"
+                    }
+                },
+                {
+                    "id": "303",
+                    "score": 0.820321083,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Period\": \"1987\\u20131988\", \"Manufacturer\": \"Olympic\", \"Shirt (home)\": \"Norcross Estates\", \"Shirt (away)\": \"Norcross Estates\", \"record\": \"Colchester United F.C. Colours and crest\"}"
+                    }
+                },
+                {
+                    "id": "304",
+                    "score": 0.819612443,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Period\": \"1988\\u20131990\", \"Manufacturer\": \"Spall\", \"Shirt (home)\": \"Norcross Estates\", \"Shirt (away)\": \"Norcross Estates\", \"record\": \"Colchester United F.C. Colours and crest\"}"
+                    }
+                },
+                {
+                    "id": "329",
+                    "score": 0.819473505,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Shirt (home)\": [\"None\", \"None\", \"Royal London Group\", \"Royal London Group\", \"0800 Linkline\", \"Norcross Estates\", \"Norcross Estates\", \"Holimarine\", \"Colchester Hippodrome\", \"The Sun\", \"Strovers\", \"SGR Colchester\", \"SGR Colchester\", \"Goldstar Fabrications\", \"Guardian Direct\", \"East Anglian Daily Times\", \"JobServe\", \"Tiptree Jams\", \"ICS Triplex\", \"Easy-Skip\", \"MutualPoints.com\", \"Haart\", \"Weston Homes\", \"Weston Homes\", \"ROL Cruise\", \"Various\", \"Weston Homes\", \"Weston Homes\", \"JobServe\"], \"record\": \"Colchester United F.C. Colours and crest\"}"
+                    }
+                },
+                {
+                    "id": "298",
+                    "score": 0.818163514,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Period\": \"1975\\u20131979\", \"Manufacturer\": \"Umbro\", \"Shirt (home)\": \"None\", \"Shirt (away)\": \"None\", \"record\": \"Colchester United F.C. Colours and crest\"}"
+                    }
+                }
+            ],
+            "namespace": ""
+        }
+    },
+    {
+        "question": "How much did the average attendance numbers for the Kansas City Comets vary?",
+        "retrievedResults": {
+            "matches": [
+                {
+                    "id": "348",
+                    "score": 0.878243744,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Avg. Attendance\": [\"11,058\", \"14,692\", \"15,786\", \"12,917\", \"12,428\", \"12,447\", \"11,211\", \"9,228\", \"10,475\", \"7,103\"], \"record\": \"Kansas City Comets (1979\\u201391) Kansas City Comets\"}"
+                    }
+                },
+                {
+                    "id": "340",
+                    "score": 0.865262,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Year\": \"1988/89\", \"Division\": \"N/A\", \"League\": \"MISL\", \"Reg. Season\": \"7th\", \"Playoffs\": \"Did not qualify\", \"Avg. Attendance\": \"9,228\", \"record\": \"Kansas City Comets (1979\\u201391) Kansas City Comets\"}"
+                    }
+                },
+                {
+                    "id": "337",
+                    "score": 0.86299324,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Year\": \"1985/86\", \"Division\": \"Western\", \"League\": \"MISL\", \"Reg. Season\": \"5th\", \"Playoffs\": \"Did not qualify\", \"Avg. Attendance\": \"12,428\", \"record\": \"Kansas City Comets (1979\\u201391) Kansas City Comets\"}"
+                    }
+                },
+                {
+                    "id": "333",
+                    "score": 0.862837195,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Year\": \"1981/82\", \"Division\": \"Western\", \"League\": \"MISL\", \"Reg. Season\": \"6th\", \"Playoffs\": \"Did not qualify\", \"Avg. Attendance\": \"11,058\", \"record\": \"Kansas City Comets (1979\\u201391) Kansas City Comets\"}"
+                    }
+                },
+                {
+                    "id": "335",
+                    "score": 0.862455606,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Year\": \"1983/84\", \"Division\": \"Western\", \"League\": \"MISL\", \"Reg. Season\": \"4th\", \"Playoffs\": \"1st Round\", \"Avg. Attendance\": \"15,786\", \"record\": \"Kansas City Comets (1979\\u201391) Kansas City Comets\"}"
+                    }
+                }
+            ],
+            "namespace": ""
+        }
+    },
+    {
+        "question": "What roles did Blake Hood portray in the shows \"90210\" and \"The Young and the Restless\"?",
+        "retrievedResults": {
+            "matches": [
+                {
+                    "id": "359",
+                    "score": 0.857768238,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Year\": \"2012\\u201313\", \"Title\": \"The Young and the Restless\", \"Role\": \"Kyle Jenkins Abbott\", \"Notes\": \"Role held: April 27, 2012 \\u2013 April 11, 2013\", \"record\": \"Blake Hood Filmography\"}"
+                    }
+                },
+                {
+                    "id": "356",
+                    "score": 0.834428489,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Year\": \"2009\\u201310\", \"Title\": \"90210\", \"Role\": \"Mark Driscoll\", \"Notes\": \"8 episodes\", \"record\": \"Blake Hood Filmography\"}"
+                    }
+                },
+                {
+                    "id": "368",
+                    "score": 0.826597154,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Role\": [\"Brian\", \"Actor playing Scott\", \"Boomer\", \"Austin\", \"Boyfriend\", \"Mark Driscoll\", \"Cole Austen (1989)\", \"Dr. David Shecter\", \"Kyle Jenkins Abbott\", \"Dean\", \"Jeff\", \"Miller\", \"Bennett Jermaine\", \"Nick\", \"Clive Johnson\"], \"record\": \"Blake Hood Filmography\"}"
+                    }
+                },
+                {
+                    "id": "355",
+                    "score": 0.823470473,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Year\": \"2009\", \"Title\": \"Ghost Whisperer\", \"Role\": \"Boyfriend\", \"Notes\": \"Episode: \\\"Body of Water\\\"\", \"record\": \"Blake Hood Filmography\"}"
+                    }
+                },
+                {
+                    "id": "364",
+                    "score": 0.820797324,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Year\": \"2016\", \"Title\": \"Forever 31\", \"Role\": \"Nick\", \"Notes\": \"Mini-series; Main cast, episode 2-7\", \"record\": \"Blake Hood Filmography\"}"
+                    }
+                }
+            ],
+            "namespace": ""
+        }
+    },
+    {
+        "question": "How well did Austin block perform during his two seasons with the Fairbanks ice dogs?",
+        "retrievedResults": {
+            "matches": [
+                {
+                    "id": "374",
+                    "score": 0.792881548,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"-\": \"2\", \"Regular season\": \"76\", \"Playoffs\": \"4\", \"record\": \"Austin Block Career statistics\"}"
+                    }
+                },
+                {
+                    "id": "373",
+                    "score": 0.786049485,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"-\": \"18\", \"Regular season\": \"24\", \"Playoffs\": \"4\", \"record\": \"Austin Block Career statistics\"}"
+                    }
+                },
+                {
+                    "id": "391",
+                    "score": 0.783049226,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Regular season\": [\"Pts\", \"24\", \"76\", \"3\", \"9\", \"15\", \"23\", \"3\", \"4\", \"3\", \"15\", \"8\", \"12\", \"7\", \"35\", \"0\", \"7\", \"3\"], \"record\": \"Austin Block Career statistics\"}"
+                    }
+                },
+                {
+                    "id": "392",
+                    "score": 0.780395567,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Playoffs\": [\"A\", \"4\", \"4\", \"\\u2014\", \"\\u2014\", \"\\u2014\", \"\\u2014\", \"\\u2014\", \"\\u2014\", \"\\u2014\", \"\\u2014\", \"\\u2014\", \"\\u2014\", \"\\u2014\", \"\\u2014\", \"\\u2014\", \"\\u2014\", \"\\u2014\"], \"record\": \"Austin Block Career statistics\"}"
+                    }
+                },
+                {
+                    "id": "383",
+                    "score": 0.775184274,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"-\": \"\\u2014\", \"Regular season\": \"8\", \"Playoffs\": \"\\u2014\", \"record\": \"Austin Block Career statistics\"}"
+                    }
+                }
+            ],
+            "namespace": ""
+        }
+    },
+    {
+        "question": "Which roles did Bebe Neuwirth play in the 1986 Sweet Charity and which other role in the 1996 Chicago?",
+        "retrievedResults": {
+            "matches": [
+                {
+                    "id": "398",
+                    "score": 0.883032739,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Year\": \"1986\", \"Title\": \"Sweet Charity\", \"Role\": \"Nickie, Charity standby\", \"Notes\": \"Broadway\", \"record\": \"Bebe Neuwirth Stage\"}"
+                    }
+                },
+                {
+                    "id": "402",
+                    "score": 0.848287,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Year\": \"2006\", \"Title\": \"Chicago\", \"Role\": \"Roxie Hart\", \"Notes\": \"Broadway\", \"record\": \"Bebe Neuwirth Stage\"}"
+                    }
+                },
+                {
+                    "id": "400",
+                    "score": 0.843587637,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Year\": \"1996\", \"Title\": \"Chicago\", \"Role\": \"Velma Kelly\", \"Notes\": \"Broadway\", \"record\": \"Bebe Neuwirth Stage\"}"
+                    }
+                },
+                {
+                    "id": "404",
+                    "score": 0.839920461,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Year\": \"2014\", \"Title\": \"Chicago\", \"Role\": \"Matron \\\"Mama\\\" Morton\", \"Notes\": \"Broadway\", \"record\": \"Bebe Neuwirth Stage\"}"
+                    }
+                },
+                {
+                    "id": "406",
+                    "score": 0.834921181,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Title\": [\"A Chorus Line\", \"Dancin'\", \"Little Me\", \"Sweet Charity\", \"Damn Yankees\", \"Chicago\", \"Funny Girl\", \"Chicago\", \"The Addams Family\", \"Chicago\"], \"record\": \"Bebe Neuwirth Stage\"}"
+                    }
+                }
+            ],
+            "namespace": ""
+        }
+    },
+    {
+        "question": "What years did Ryan Kwanten appear in the films Flicka and as Jamie Ashen in Dead Silence?",
+        "retrievedResults": {
+            "matches": [
+                {
+                    "id": "416",
+                    "score": 0.869381428,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Year\": \"2007\", \"Title\": \"Dead Silence\", \"Role\": \"Jamie Ashen\", \"Notes\": \"-\", \"record\": \"Ryan Kwanten Filmography\"}"
+                    }
+                },
+                {
+                    "id": "415",
+                    "score": 0.829438865,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Year\": \"2006\", \"Title\": \"Flicka\", \"Role\": \"Howard McLaughlin\", \"Notes\": \"-\", \"record\": \"Ryan Kwanten Filmography\"}"
+                    }
+                },
+                {
+                    "id": "420",
+                    "score": 0.818823,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Year\": \"2010\", \"Title\": \"Don't Fade Away\", \"Role\": \"Jackson White\", \"Notes\": \"-\", \"record\": \"Ryan Kwanten Filmography\"}"
+                    }
+                },
+                {
+                    "id": "425",
+                    "score": 0.813079536,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Year\": \"2013\", \"Title\": \"Knights of Badassdom\", \"Role\": \"Joe\", \"Notes\": \"-\", \"record\": \"Ryan Kwanten Filmography\"}"
+                    }
+                },
+                {
+                    "id": "430",
+                    "score": 0.811211228,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Year\": \"2015\", \"Title\": \"Kidnapping Freddy Heineken\", \"Role\": \"Jan \\\"Cat\\\" Boellard\", \"Notes\": \"-\", \"record\": \"Ryan Kwanten Filmography\"}"
+                    }
+                }
+            ],
+            "namespace": ""
+        }
+    },
+    {
+        "question": "What were Usian Bolts record finishes in the 200 meter, 400 meter and 4 \u00d7 100 m race?",
+        "retrievedResults": {
+            "matches": [
+                {
+                    "id": "459",
+                    "score": 0.847147167,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Event\": \"4 x 400 metres relay\", \"Gold\": \"3:09.70\", \"Silver\": \"3:12.46\", \"Bronze\": \"3:13.72\", \"record\": \"2003 CARIFTA Games Boys under 20 (Junior)\"}"
+                    }
+                },
+                {
+                    "id": "449",
+                    "score": 0.846875787,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Event\": \"400 metres hurdles\", \"Gold\": \"51.22\", \"Silver\": \"51.29\", \"Bronze\": \"53.68\", \"record\": \"2003 CARIFTA Games Boys under 20 (Junior)\"}"
+                    }
+                },
+                {
+                    "id": "448",
+                    "score": 0.8435,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Event\": \"110 metres hurdles (-3.1 m/s)\", \"Gold\": \"14.25\", \"Silver\": \"14.48\", \"Bronze\": \"14.64\", \"record\": \"2003 CARIFTA Games Boys under 20 (Junior)\"}"
+                    }
+                },
+                {
+                    "id": "444",
+                    "score": 0.83866,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Event\": \"400 metres\", \"Gold\": \"46.35 CR\", \"Silver\": \"47.34\", \"Bronze\": \"47.39\", \"record\": \"2003 CARIFTA Games Boys under 20 (Junior)\"}"
+                    }
+                },
+                {
+                    "id": "458",
+                    "score": 0.837499321,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Event\": \"4 x 100 metres relay\", \"Gold\": \"39.43 CR\", \"Silver\": \"40.64\", \"Bronze\": \"40.80\", \"record\": \"2003 CARIFTA Games Boys under 20 (Junior)\"}"
+                    }
+                }
+            ],
+            "namespace": ""
+        }
+    },
+    {
+        "question": "Which car won in 1986 and who was the driver?",
+        "retrievedResults": {
+            "matches": [
+                {
+                    "id": "473",
+                    "score": 0.803326368,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Round\": \"4\", \"Circuit\": \"Suzuka Circuit Report\", \"Winning Team\": \"#27 FromA (ja) Racing (ja) Porsche 956\", \"record\": \"1986 All Japan Endurance Championship Season results\"}"
+                    }
+                },
+                {
+                    "id": "467",
+                    "score": 0.799557507,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Round\": \"1\", \"Circuit\": \"Suzuka Circuit\", \"Winning Team\": \"#1 Advan Sports Nova (ja) Porsche 962C\", \"record\": \"1986 All Japan Endurance Championship Season results\"}"
+                    }
+                },
+                {
+                    "id": "475",
+                    "score": 0.791898489,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Round\": \"5\", \"Circuit\": \"Mt. Fuji Report\", \"Winning Team\": \"#7 Joest Racing Porsche 956\", \"record\": \"1986 All Japan Endurance Championship Season results\"}"
+                    }
+                },
+                {
+                    "id": "469",
+                    "score": 0.791029572,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Round\": \"2\", \"Circuit\": \"Mt. Fuji Report\", \"Winning Team\": \"#1 Advan Sports Nova (ja) Porsche 962C\", \"record\": \"1986 All Japan Endurance Championship Season results\"}"
+                    }
+                },
+                {
+                    "id": "477",
+                    "score": 0.790545285,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Round\": \"6\", \"Circuit\": \"Mt. Fuji\", \"Winning Team\": \"#7 Trust Racing Team (ja) Porsche 956\", \"record\": \"1986 All Japan Endurance Championship Season results\"}"
+                    }
+                }
+            ],
+            "namespace": ""
+        }
+    },
+    {
+        "question": "What year did Philip I the Amorous become King of the Franks, what year did that run end, and what number king was he?",
+        "retrievedResults": {
+            "matches": [
+                {
+                    "id": "487",
+                    "score": 0.856445,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Portrait\": \"-\", \"Coat of arms\": \"-\", \"Name\": \"Philip I the Amorous (Philippe)\", \"King from\": \"4 August 1060\", \"King until\": \"29 July 1108\", \"Relationship with predecessor(s)\": \"Son of Henry I\", \"Title\": \"King of the Franks (Roi des Francs)\", \"record\": \"List of French monarchs House of Capet (987\\u20131328)\"}"
+                    }
+                },
+                {
+                    "id": "490",
+                    "score": 0.835322559,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Portrait\": \"-\", \"Coat of arms\": \"-\", \"Name\": \"Philip II Augustus (Philippe Auguste)\", \"King from\": \"18 September 1180\", \"King until\": \"14 July 1223\", \"Relationship with predecessor(s)\": \"Son of Louis VII\", \"Title\": \"King of the Franks (Roi des Francs) King of France (Roi de France)\", \"record\": \"List of French monarchs House of Capet (987\\u20131328)\"}"
+                    }
+                },
+                {
+                    "id": "494",
+                    "score": 0.826769531,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Portrait\": \"-\", \"Coat of arms\": \"-\", \"Name\": \"Philip IV the Fair, the Iron King (Philippe)\", \"King from\": \"5 October 1285\", \"King until\": \"29 November 1314\", \"Relationship with predecessor(s)\": \"Son of Philip III\", \"Title\": \"King of France and of Navarre (Roi de France et de Navarre)\", \"record\": \"List of French monarchs House of Capet (987\\u20131328)\"}"
+                    }
+                },
+                {
+                    "id": "493",
+                    "score": 0.826135218,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Portrait\": \"-\", \"Coat of arms\": \"-\", \"Name\": \"Philip III the Bold (Philippe)\", \"King from\": \"25 August 1270\", \"King until\": \"5 October 1285\", \"Relationship with predecessor(s)\": \"Son of Louis IX\", \"Title\": \"King of France (Roi de France)\", \"record\": \"List of French monarchs House of Capet (987\\u20131328)\"}"
+                    }
+                },
+                {
+                    "id": "497",
+                    "score": 0.816426277,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Portrait\": \"-\", \"Coat of arms\": \"-\", \"Name\": \"Philip V the Tall (Philippe)\", \"King from\": \"20 November 1316\", \"King until\": \"3 January 1322\", \"Relationship with predecessor(s)\": \"Son of Philip IV Younger brother of Louis X\", \"Title\": \"King of France and of Navarre (Roi de France et de Navarre)\", \"record\": \"List of French monarchs House of Capet (987\\u20131328)\"}"
+                    }
+                }
+            ],
+            "namespace": ""
+        }
+    },
+    {
+        "question": "How many of each type of local government are in the Indian state of Kerala?",
+        "retrievedResults": {
+            "matches": [
+                {
+                    "id": "515",
+                    "score": 0.877185106,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Type of local government\": [\"Grama Panchayat\", \"Block Panchayat\", \"District Panchayat\", \"Municipality\", \"Municipal Corporation\", \"Total in the State\"], \"record\": \"Local governance in Kerala The framework\"}"
+                    }
+                },
+                {
+                    "id": "511",
+                    "score": 0.870379269,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Sl No\": \"4\", \"Type of local government\": \"Municipality\", \"Total numbers\": \"87\", \"record\": \"Local governance in Kerala The framework\"}"
+                    }
+                },
+                {
+                    "id": "510",
+                    "score": 0.868747234,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Sl No\": \"3\", \"Type of local government\": \"District Panchayat\", \"Total numbers\": \"14\", \"record\": \"Local governance in Kerala The framework\"}"
+                    }
+                },
+                {
+                    "id": "508",
+                    "score": 0.868535757,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Sl No\": \"1\", \"Type of local government\": \"Grama Panchayat\", \"Total numbers\": \"941\", \"record\": \"Local governance in Kerala The framework\"}"
+                    }
+                },
+                {
+                    "id": "513",
+                    "score": 0.864946902,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Sl No\": \"-\", \"Type of local government\": \"Total in the State\", \"Total numbers\": \"1200\", \"record\": \"Local governance in Kerala The framework\"}"
+                    }
+                }
+            ],
+            "namespace": ""
+        }
+    },
+    {
+        "question": "What was the approval percentage and turnout for the 1991 Macedonian independence referendum vote?",
+        "retrievedResults": {
+            "matches": [
+                {
+                    "id": "523",
+                    "score": 0.90233016,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Choice\": \"Registered voters/turnout\", \"Votes\": \"1,495,807\", \"%\": \"75.7\", \"record\": \"1991 Macedonian independence referendum Results\"}"
+                    }
+                },
+                {
+                    "id": "519",
+                    "score": 0.869633555,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Choice\": \"For\", \"Votes\": \"1,079,308\", \"%\": \"96.4\", \"record\": \"1991 Macedonian independence referendum Results\"}"
+                    }
+                },
+                {
+                    "id": "525",
+                    "score": 0.864177406,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Choice\": [\"For\", \"Against\", \"Invalid/blank votes\", \"Total\", \"Registered voters/turnout\", \"Source: Nohlen & St\\u00f6ver\"], \"record\": \"1991 Macedonian independence referendum Results\"}"
+                    }
+                },
+                {
+                    "id": "526",
+                    "score": 0.862624168,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Votes\": [\"1,079,308\", \"39,639\", \"13,648\", \"1,132,595\", \"1,495,807\", \"Source: Nohlen & St\\u00f6ver\"], \"record\": \"1991 Macedonian independence referendum Results\"}"
+                    }
+                },
+                {
+                    "id": "520",
+                    "score": 0.862090528,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Choice\": \"Against\", \"Votes\": \"39,639\", \"%\": \"3.6\", \"record\": \"1991 Macedonian independence referendum Results\"}"
+                    }
+                }
+            ],
+            "namespace": ""
+        }
+    },
+    {
+        "question": "How many students were accepted from the 21,359 people who applied for the University of  Oregon in 2014 and how many students enrolled?",
+        "retrievedResults": {
+            "matches": [
+                {
+                    "id": "530",
+                    "score": 0.857404947,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"-\": \"Applicants\", \"2014\": \"21,359\", \"2013\": \"21,938\", \"2012\": \"21,263\", \"2011\": \"23,012\", \"2010\": \"18,515\", \"record\": \"University of Oregon Admissions\"}"
+                    }
+                },
+                {
+                    "id": "533",
+                    "score": 0.852202594,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"-\": \"Enrolled\", \"2014\": \"3,961\", \"2013\": \"3,966\", \"2012\": \"4,031\", \"2011\": \"4,167\", \"2010\": \"3,978\", \"record\": \"University of Oregon Admissions\"}"
+                    }
+                },
+                {
+                    "id": "531",
+                    "score": 0.84776336,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"-\": \"Admits\", \"2014\": \"15,997\", \"2013\": \"16,206\", \"2012\": \"15,770\", \"2011\": \"16,790\", \"2010\": \"14,588\", \"record\": \"University of Oregon Admissions\"}"
+                    }
+                },
+                {
+                    "id": "539",
+                    "score": 0.833678246,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"2014\": [\"21,359\", \"15,997\", \"74.9\", \"3,961\", \"3.58\", \"990\\u20131230\", \"22\\u201327\", \"-\"], \"record\": \"University of Oregon Admissions\"}"
+                    }
+                },
+                {
+                    "id": "532",
+                    "score": 0.826780677,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"-\": \"% Admitted\", \"2014\": \"74.9\", \"2013\": \"73.9\", \"2012\": \"74.2\", \"2011\": \"73.0\", \"2010\": \"78.8\", \"record\": \"University of Oregon Admissions\"}"
+                    }
+                }
+            ],
+            "namespace": ""
+        }
+    },
+    {
+        "question": "How many appearances did Dwight Yorke make for Manchester United?",
+        "retrievedResults": {
+            "matches": [
+                {
+                    "id": "575",
+                    "score": 0.836674333,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Club performance\": \"Career total\", \"League\": \"148\", \"Cup\": \"20\", \"League Cup\": \"14\", \"Continental\": \"15\", \"Total\": \"197\", \"record\": \"Dwight Yorke Club\"}"
+                    }
+                },
+                {
+                    "id": "557",
+                    "score": 0.82595408,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Club performance\": \"Total\", \"League\": \"73\", \"Cup\": \"14\", \"League Cup\": \"8\", \"Continental\": \"2\", \"Total\": \"97\", \"record\": \"Dwight Yorke Club\"}"
+                    }
+                },
+                {
+                    "id": "563",
+                    "score": 0.825804591,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Club performance\": \"Premier League\", \"League\": \"8\", \"Cup\": \"3\", \"League Cup\": \"2\", \"Continental\": \"0\", \"Total\": \"13\", \"record\": \"Dwight Yorke Club\"}"
+                    }
+                },
+                {
+                    "id": "553",
+                    "score": 0.825077653,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Club performance\": \"Premier League\", \"League\": \"17\", \"Cup\": \"2\", \"League Cup\": \"6\", \"Continental\": \"0\", \"Total\": \"25\", \"record\": \"Dwight Yorke Club\"}"
+                    }
+                },
+                {
+                    "id": "554",
+                    "score": 0.823924839,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Club performance\": \"Premier League\", \"League\": \"17\", \"Cup\": \"2\", \"League Cup\": \"1\", \"Continental\": \"0\", \"Total\": \"20\", \"record\": \"Dwight Yorke Club\"}"
+                    }
+                }
+            ],
+            "namespace": ""
+        }
+    },
+    {
+        "question": "What record time did Jamal Walton win gold for in the 2017 Pan American U20 championships? ",
+        "retrievedResults": {
+            "matches": [
+                {
+                    "id": "603",
+                    "score": 0.892339587,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Year\": \"2017\", \"Competition\": \"Pan American U20 Championships\", \"Venue\": \"Trujillo, Peru\", \"Position\": \"4th (h)\", \"Event\": \"200 m\", \"Notes\": \"21.392\", \"record\": \"Jamal Walton International competitions\"}"
+                    }
+                },
+                {
+                    "id": "589",
+                    "score": 0.889964163,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Year\": \"2014\", \"Competition\": \"Central American and Caribbean Junior Championships (U18)\", \"Venue\": \"Morelia, Mexico\", \"Position\": \"12th (h)\", \"Event\": \"200 m\", \"Notes\": \"22.38\", \"record\": \"Jamal Walton International competitions\"}"
+                    }
+                },
+                {
+                    "id": "604",
+                    "score": 0.88924557,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Year\": \"2017\", \"Competition\": \"Pan American U20 Championships\", \"Venue\": \"Trujillo, Peru\", \"Position\": \"1st\", \"Event\": \"400 m\", \"Notes\": \"44.99\", \"record\": \"Jamal Walton International competitions\"}"
+                    }
+                },
+                {
+                    "id": "590",
+                    "score": 0.889087796,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Year\": \"2014\", \"Competition\": \"Central American and Caribbean Junior Championships (U18)\", \"Venue\": \"Morelia, Mexico\", \"Position\": \"1st\", \"Event\": \"400 m\", \"Notes\": \"47.01\", \"record\": \"Jamal Walton International competitions\"}"
+                    }
+                },
+                {
+                    "id": "596",
+                    "score": 0.878033,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Year\": \"2015\", \"Competition\": \"Pan American Junior Championships\", \"Venue\": \"Edmonton, Canada\", \"Position\": \"1st\", \"Event\": \"400 m\", \"Notes\": \"46.09\", \"record\": \"Jamal Walton International competitions\"}"
+                    }
+                }
+            ],
+            "namespace": ""
+        }
+    },
+    {
+        "question": "How many votes was the Democratic party and the Five star Movement endorsed with in the Aosta Valley?",
+        "retrievedResults": {
+            "matches": [
+                {
+                    "id": "615",
+                    "score": 0.888544202,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Party\": \"Five Star Movement\", \"Votes\": \"9,096\", \"%\": \"19.6\", \"record\": \"2014 European Parliament election in Aosta Valley Results\"}"
+                    }
+                },
+                {
+                    "id": "614",
+                    "score": 0.875918388,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Party\": \"Democratic Party\", \"Votes\": \"21,854\", \"%\": \"47.1\", \"record\": \"2014 European Parliament election in Aosta Valley Results\"}"
+                    }
+                },
+                {
+                    "id": "618",
+                    "score": 0.869125247,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Party\": \"Lega Nord\", \"Votes\": \"3,170\", \"%\": \"6.8\", \"record\": \"2014 European Parliament election in Aosta Valley Results\"}"
+                    }
+                },
+                {
+                    "id": "620",
+                    "score": 0.867937922,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Party\": \"Brothers of Italy\", \"Votes\": \"1,177\", \"%\": \"2.5\", \"record\": \"2014 European Parliament election in Aosta Valley Results\"}"
+                    }
+                },
+                {
+                    "id": "616",
+                    "score": 0.865011454,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Party\": \"Forza Italia\", \"Votes\": \"4,765\", \"%\": \"10.3\", \"record\": \"2014 European Parliament election in Aosta Valley Results\"}"
+                    }
+                }
+            ],
+            "namespace": ""
+        }
+    },
+    {
+        "question": "What was Corbett\u2019s record from 1971 to 1979?",
+        "retrievedResults": {
+            "matches": [
+                {
+                    "id": "633",
+                    "score": 0.827613115,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Season\": \"1972\\u201373\", \"Team\": \"Lincoln\", \"Overall\": \"19\\u20137\", \"Conference\": \"9\\u20133\", \"Standing\": \"-\", \"Postseason\": \"-\", \"record\": \"Don Corbett Head coaching record\"}"
+                    }
+                },
+                {
+                    "id": "638",
+                    "score": 0.822433412,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Season\": \"1977\\u201378\", \"Team\": \"Lincoln\", \"Overall\": \"22\\u20136\", \"Conference\": \"9\\u20133\", \"Standing\": \"-\", \"Postseason\": \"NCAA Division II Elite Eight\", \"record\": \"Don Corbett Head coaching record\"}"
+                    }
+                },
+                {
+                    "id": "634",
+                    "score": 0.820797384,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Season\": \"1973\\u201374\", \"Team\": \"Lincoln\", \"Overall\": \"18\\u20138\", \"Conference\": \"7\\u20135\", \"Standing\": \"-\", \"Postseason\": \"-\", \"record\": \"Don Corbett Head coaching record\"}"
+                    }
+                },
+                {
+                    "id": "637",
+                    "score": 0.820465207,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Season\": \"1976\\u201377\", \"Team\": \"Lincoln\", \"Overall\": \"22\\u20136\", \"Conference\": \"11\\u20131\", \"Standing\": \"1st\", \"Postseason\": \"NCAA Division II First Round\", \"record\": \"Don Corbett Head coaching record\"}"
+                    }
+                },
+                {
+                    "id": "632",
+                    "score": 0.820450366,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Season\": \"1971\\u201372\", \"Team\": \"Lincoln\", \"Overall\": \"22\\u20136\", \"Conference\": \"11\\u20131\", \"Standing\": \"1st\", \"Postseason\": \"NCAA College Division Sweet Sixteen\", \"record\": \"Don Corbett Head coaching record\"}"
+                    }
+                }
+            ],
+            "namespace": ""
+        }
+    },
+    {
+        "question": "What was the result of the 1918 election and which politicians died in 1918?",
+        "retrievedResults": {
+            "matches": [
+                {
+                    "id": "678",
+                    "score": 0.845495105,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Electorate and by-election\": \"1918\", \"Date\": \"10 October\", \"Incumbent\": \"Henry Okey\", \"Cause\": \"Death\", \"Winner\": \"Sydney Smith\", \"record\": \"19th New Zealand Parliament By-elections during the 19th Parliament\"}"
+                    }
+                },
+                {
+                    "id": "677",
+                    "score": 0.842014551,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Electorate and by-election\": \"1918\", \"Date\": \"3 October\", \"Incumbent\": \"Robert Fletcher\", \"Cause\": \"Death\", \"Winner\": \"Peter Fraser\", \"record\": \"19th New Zealand Parliament By-elections during the 19th Parliament\"}"
+                    }
+                },
+                {
+                    "id": "680",
+                    "score": 0.83993721,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Electorate and by-election\": \"1918\", \"Date\": \"19 December\", \"Incumbent\": \"Alfred Hindmarsh\", \"Cause\": \"Death\", \"Winner\": \"Bob Semple\", \"record\": \"19th New Zealand Parliament By-elections during the 19th Parliament\"}"
+                    }
+                },
+                {
+                    "id": "675",
+                    "score": 0.837780893,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Electorate and by-election\": \"1918\", \"Date\": \"21 February\", \"Incumbent\": \"Taare Parata\", \"Cause\": \"Death\", \"Winner\": \"Hopere Uru\", \"record\": \"19th New Zealand Parliament By-elections during the 19th Parliament\"}"
+                    }
+                },
+                {
+                    "id": "670",
+                    "score": 0.833140612,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Electorate and by-election\": \"1916\", \"Date\": \"17 August\", \"Incumbent\": \"James Escott\", \"Cause\": \"Death\", \"Winner\": \"Harold Smith\", \"record\": \"19th New Zealand Parliament By-elections during the 19th Parliament\"}"
+                    }
+                }
+            ],
+            "namespace": ""
+        }
+    },
+    {
+        "question": "Who succeeded Artaxerxes II?",
+        "retrievedResults": {
+            "matches": [
+                {
+                    "id": "698",
+                    "score": 0.854074955,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Name\": \"Artaxerxes III\", \"Image\": \"-\", \"Comments\": \"King of Persia in addition to Pharaoh of Egypt (Regained control over Egypt after 50 years)\", \"Dates\": \"358\\u2013338 BC\", \"record\": \"Achaemenid Empire Attested\"}"
+                    }
+                },
+                {
+                    "id": "697",
+                    "score": 0.850089431,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Name\": \"Artaxerxes II\", \"Image\": \"-\", \"Comments\": \"King of Persia\", \"Dates\": \"405\\u2013358 BC\", \"record\": \"Achaemenid Empire Attested\"}"
+                    }
+                },
+                {
+                    "id": "693",
+                    "score": 0.843330085,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Name\": \"Artaxerxes I\", \"Image\": \"-\", \"Comments\": \"King of Persia in addition to Pharaoh of Egypt\", \"Dates\": \"465\\u2013424 BC\", \"record\": \"Achaemenid Empire Attested\"}"
+                    }
+                },
+                {
+                    "id": "699",
+                    "score": 0.843162894,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Name\": \"Artaxerxes IV\", \"Image\": \"-\", \"Comments\": \"King of Persia in addition to Pharaoh of Egypt\", \"Dates\": \"338\\u2013336 BC\", \"record\": \"Achaemenid Empire Attested\"}"
+                    }
+                },
+                {
+                    "id": "694",
+                    "score": 0.842362404,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Name\": \"Xerxes II\", \"Image\": \"-\", \"Comments\": \"King of Persia in addition to Pharaoh of Egypt\", \"Dates\": \"424 BC (45 days)\", \"record\": \"Achaemenid Empire Attested\"}"
+                    }
+                }
+            ],
+            "namespace": ""
+        }
+    },
+    {
+        "question": "Who led the NL in average and RBIs during 1948, and what were his totals in those categories?",
+        "retrievedResults": {
+            "matches": [
+                {
+                    "id": "715",
+                    "score": 0.834368408,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"National League\": [\".376\", \"40\", \"131\", \"24\", \"2.24\", \"149\"], \"record\": \"1948 in baseball MLB statistical leaders\"}"
+                    }
+                },
+                {
+                    "id": "709",
+                    "score": 0.832501054,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"-\": \"RBI\", \"American League\": \"155\", \"National League\": \"131\", \"record\": \"1948 in baseball MLB statistical leaders\"}"
+                    }
+                },
+                {
+                    "id": "711",
+                    "score": 0.820911229,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"-\": \"ERA\", \"American League\": \"2.43\", \"National League\": \"2.24\", \"record\": \"1948 in baseball MLB statistical leaders\"}"
+                    }
+                },
+                {
+                    "id": "714",
+                    "score": 0.820499361,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"American League\": [\".369\", \"39\", \"155\", \"21\", \"2.43\", \"164\"], \"record\": \"1948 in baseball MLB statistical leaders\"}"
+                    }
+                },
+                {
+                    "id": "712",
+                    "score": 0.816500068,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"-\": \"Ks\", \"American League\": \"164\", \"National League\": \"149\", \"record\": \"1948 in baseball MLB statistical leaders\"}"
+                    }
+                }
+            ],
+            "namespace": ""
+        }
+    },
+    {
+        "question": "What duo finished second in the election, what duo won the election, what percentage of vote did each duo receive, and what party was victorious?",
+        "retrievedResults": {
+            "matches": [
+                {
+                    "id": "773",
+                    "score": 0.815359712,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Party\": [\"Democratic\", \"Republican\", \"Socialist\", \"Liberty\", \"Communist\", \"Total votes\"], \"record\": \"1932 United States presidential election in North Dakota Results\"}"
+                    }
+                },
+                {
+                    "id": "772",
+                    "score": 0.814593136,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Party\": \"Total votes\", \"Candidate\": \"Total votes\", \"Votes\": \"256,290\", \"%\": \"100%\", \"record\": \"1932 United States presidential election in North Dakota Results\"}"
+                    }
+                },
+                {
+                    "id": "723",
+                    "score": 0.810393453,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Party\": \"Total votes\", \"Candidate\": \"Total votes\", \"Votes\": \"5,951,561\", \"%\": \"-\", \"record\": \"Annette Taddeo Early elections, 2008\\u20132016\"}"
+                    }
+                },
+                {
+                    "id": "7",
+                    "score": 0.807017207,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Party\": \"Republican hold\", \"Candidate\": \"Republican hold\", \"Votes\": \"Swing\", \"%\": \"-\", \"\\u00b1\": \"-\", \"record\": \"1982 Illinois gubernatorial election Results\"}"
+                    }
+                },
+                {
+                    "id": "5",
+                    "score": 0.804167151,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Party\": \"Majority\", \"Candidate\": \"Majority\", \"Votes\": \"5,074\", \"%\": \"0.14\", \"\\u00b1\": \"-\", \"record\": \"1982 Illinois gubernatorial election Results\"}"
+                    }
+                }
+            ],
+            "namespace": ""
+        }
+    },
+    {
+        "question": "How many tests, ODIs did Gargi Banerji play, and how many test runs did he get?",
+        "retrievedResults": {
+            "matches": [
+                {
+                    "id": "731",
+                    "score": 0.834307671,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"-\": \"ODIs\", \"MATCHES\": \"26\", \"RUNS\": \"409\", \"AVG\": \"15.73\", \"record\": \"Gargi Banerji \"}"
+                    }
+                },
+                {
+                    "id": "734",
+                    "score": 0.824983,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"RUNS\": [\"614\", \"409\"], \"record\": \"Gargi Banerji \"}"
+                    }
+                },
+                {
+                    "id": "732",
+                    "score": 0.819523692,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"-\": [\"TESTS\", \"ODIs\"], \"record\": \"Gargi Banerji \"}"
+                    }
+                },
+                {
+                    "id": "735",
+                    "score": 0.809541821,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"AVG\": [\"27.90\", \"15.73\"], \"record\": \"Gargi Banerji \"}"
+                    }
+                },
+                {
+                    "id": "730",
+                    "score": 0.79734838,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"-\": \"TESTS\", \"MATCHES\": \"12\", \"RUNS\": \"614\", \"AVG\": \"27.90\", \"record\": \"Gargi Banerji \"}"
+                    }
+                }
+            ],
+            "namespace": ""
+        }
+    },
+    {
+        "question": "How did Nikolay Kolesnikov do at the 1976 Olympics and at the 60 metres at the 1978 European Indoor Championships?",
+        "retrievedResults": {
+            "matches": [
+                {
+                    "id": "740",
+                    "score": 0.88687,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Year\": \"1978\", \"Competition\": \"European Indoor Championships\", \"Venue\": \"Milan, Italy\", \"Position\": \"1st\", \"Event\": \"60 metres\", \"Notes\": \"-\", \"record\": \"Nikolay Kolesnikov (sprinter) Achievements\"}"
+                    }
+                },
+                {
+                    "id": "741",
+                    "score": 0.856259882,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Year\": [\"Representing Soviet Union\", \"1976\", \"1978\"], \"record\": \"Nikolay Kolesnikov (sprinter) Achievements\"}"
+                    }
+                },
+                {
+                    "id": "739",
+                    "score": 0.854586482,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Year\": \"1976\", \"Competition\": \"Olympic Games\", \"Venue\": \"Montreal, Canada\", \"Position\": \"3rd\", \"Event\": \"4 \\u00d7 100 m relay\", \"Notes\": \"-\", \"record\": \"Nikolay Kolesnikov (sprinter) Achievements\"}"
+                    }
+                },
+                {
+                    "id": "742",
+                    "score": 0.853595257,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Competition\": [\"Representing Soviet Union\", \"Olympic Games\", \"European Indoor Championships\"], \"record\": \"Nikolay Kolesnikov (sprinter) Achievements\"}"
+                    }
+                },
+                {
+                    "id": "743",
+                    "score": 0.845425367,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Venue\": [\"Representing Soviet Union\", \"Montreal, Canada\", \"Milan, Italy\"], \"record\": \"Nikolay Kolesnikov (sprinter) Achievements\"}"
+                    }
+                }
+            ],
+            "namespace": ""
+        }
+    },
+    {
+        "question": "Where has Hit Network expanded their station?",
+        "retrievedResults": {
+            "matches": [
+                {
+                    "id": "757",
+                    "score": 0.822538197,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Callsign\": \"6PPM\", \"Frequency\": \"92.9 MHz FM\", \"Branding\": \"hit 92.9\", \"Location\": \"Perth\", \"Slogan\": \"hit92.9 Famous for Hits and Old School\", \"Notes\": \"Formerly 6PM, PMFM and 92.9 Heidi, Xavier and Ryan for Breakfast\", \"record\": \"Hit Network Stations\"}"
+                    }
+                },
+                {
+                    "id": "758",
+                    "score": 0.818561375,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Callsign\": \"Various\", \"Frequency\": \"Various\", \"Branding\": \"hit\", \"Location\": \"Regional Australia\", \"Slogan\": \"Hits and Old School\", \"Notes\": \"-\", \"record\": \"Hit Network Stations\"}"
+                    }
+                },
+                {
+                    "id": "752",
+                    "score": 0.817425191,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Callsign\": \"2XXX\", \"Frequency\": \"106.9 MHz FM\", \"Branding\": \"hit 106.9\", \"Location\": \"Newcastle\", \"Slogan\": \"hit106.9 Newcastle\\u2019s home of Hits and Old School\", \"Notes\": \"Formerly 2HR, 2NX and NXFM Nick, Jess and Simon for Breakfast\", \"record\": \"Hit Network Stations\"}"
+                    }
+                },
+                {
+                    "id": "756",
+                    "score": 0.815883338,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Callsign\": \"5SSA\", \"Frequency\": \"107.1 MHz FM\", \"Branding\": \"hit107\", \"Location\": \"Adelaide\", \"Slogan\": \"hit107 More Music, More Variety\", \"Notes\": \"Formerly SAFM Bec and Cosi for Breakfast\", \"record\": \"Hit Network Stations\"}"
+                    }
+                },
+                {
+                    "id": "763",
+                    "score": 0.815161407,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Slogan\": [\"104.1 2DAY FM More Music, More Variety\", \"101.3 Sea FM The Central Coast's home of Hits and Old School\", \"hit104.7 Canberra's home of Hits and Old School\", \"hit106.9 Newcastle\\u2019s home of Hits and Old School\", \"101.9 The Fox Melbourne\\u2019s #1 for Hits and Old School\", \"hit105 Brisbane's #1 for Hits and Old School\", \"90.9 Sea FM The Gold Coast's home of Hits and Old School\", \"hit107 More Music, More Variety\", \"hit92.9 Famous for Hits and Old School\", \"Hits and Old School\"], \"record\": \"Hit Network Stations\"}"
+                    }
+                }
+            ],
+            "namespace": ""
+        }
+    },
+    {
+        "question": "Who won the 1932 United States presidential election in North Dakota and what was the vote breakdown?",
+        "retrievedResults": {
+            "matches": [
+                {
+                    "id": "767",
+                    "score": 0.875306487,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Party\": \"Democratic\", \"Candidate\": \"Franklin D. Roosevelt\", \"Votes\": \"178,350\", \"%\": \"69.59%\", \"record\": \"1932 United States presidential election in North Dakota Results\"}"
+                    }
+                },
+                {
+                    "id": "774",
+                    "score": 0.87520957,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Candidate\": [\"Franklin D. Roosevelt\", \"Herbert Hoover (inc.)\", \"Norman Thomas\", \"William Hope Harvey\", \"William Z. Foster\", \"Total votes\"], \"record\": \"1932 United States presidential election in North Dakota Results\"}"
+                    }
+                },
+                {
+                    "id": "768",
+                    "score": 0.870947123,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Party\": \"Republican\", \"Candidate\": \"Herbert Hoover (inc.)\", \"Votes\": \"71,772\", \"%\": \"28.00%\", \"record\": \"1932 United States presidential election in North Dakota Results\"}"
+                    }
+                },
+                {
+                    "id": "775",
+                    "score": 0.870230794,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Votes\": [\"178,350\", \"71,772\", \"3,521\", \"1,817\", \"830\", \"256,290\"], \"record\": \"1932 United States presidential election in North Dakota Results\"}"
+                    }
+                },
+                {
+                    "id": "773",
+                    "score": 0.869657,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Party\": [\"Democratic\", \"Republican\", \"Socialist\", \"Liberty\", \"Communist\", \"Total votes\"], \"record\": \"1932 United States presidential election in North Dakota Results\"}"
+                    }
+                }
+            ],
+            "namespace": ""
+        }
+    },
+    {
+        "question": "Who were the first two players to join Yeovil Town F.C. in the 2002-03 season?",
+        "retrievedResults": {
+            "matches": [
+                {
+                    "id": "784",
+                    "score": 0.813613296,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Date\": \"28 November 2002\", \"Name\": \"Aggrey, JimmyJimmy Aggrey\", \"From\": \"Harrow Borough\", \"Fee\": \"Free (released)\", \"Ref\": \"-\", \"record\": \"2002\\u201303 Yeovil Town F.C. season In\"}"
+                    }
+                },
+                {
+                    "id": "779",
+                    "score": 0.807167649,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Date\": \"10 May 2002\", \"Name\": \"Williams, GavinGavin Williams\", \"From\": \"Hereford United\", \"Fee\": \"\\u00a322,500\", \"Ref\": \"-\", \"record\": \"2002\\u201303 Yeovil Town F.C. season In\"}"
+                    }
+                },
+                {
+                    "id": "781",
+                    "score": 0.803842664,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Date\": \"22 August 2002\", \"Name\": \"Forinton, HowardHoward Forinton\", \"From\": \"Torquay United\", \"Fee\": \"Free (released)\", \"Ref\": \"-\", \"record\": \"2002\\u201303 Yeovil Town F.C. season In\"}"
+                    }
+                },
+                {
+                    "id": "786",
+                    "score": 0.802389443,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Date\": \"14 February 2003\", \"Name\": \"Mustoe, NeilNeil Mustoe\", \"From\": \"Stevenage Borough\", \"Fee\": \"Free\", \"Ref\": \"-\", \"record\": \"2002\\u201303 Yeovil Town F.C. season In\"}"
+                    }
+                },
+                {
+                    "id": "789",
+                    "score": 0.800495803,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"From\": [\"Hereford United\", \"Oostende\", \"Torquay United\", \"Raja Casablanca\", \"Stevenage Borough\", \"Harrow Borough\", \"Bristol Rovers\", \"Stevenage Borough\"], \"record\": \"2002\\u201303 Yeovil Town F.C. season In\"}"
+                    }
+                }
+            ],
+            "namespace": ""
+        }
+    },
+    {
+        "question": "Who was awarded a Golden Scarf by Seattle Sounders FC on June 5, 2010?",
+        "retrievedResults": {
+            "matches": [
+                {
+                    "id": "794",
+                    "score": 0.885401785,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Date\": \"March 26, 2010\", \"Opponent\": \"Philadelphia Union\", \"Recipient\": \"Cliff McCrath\", \"Notes\": \"Seattle Sounders (NASL) scout\", \"record\": \"List of Golden Scarf recipients 2010 Recipients\"}"
+                    }
+                },
+                {
+                    "id": "799",
+                    "score": 0.883937418,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Date\": \"May 22, 2010\", \"Opponent\": \"San Jose Earthquakes\", \"Recipient\": \"Tim Busch\", \"Notes\": \"Seattle Sounders FC fan\", \"record\": \"List of Golden Scarf recipients 2010 Recipients\"}"
+                    }
+                },
+                {
+                    "id": "795",
+                    "score": 0.88209188,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Date\": \"April 3, 2010\", \"Opponent\": \"New York Red Bulls\", \"Recipient\": \"Tim Murray\", \"Notes\": \"Seattle Sounders FC fan\", \"record\": \"List of Golden Scarf recipients 2010 Recipients\"}"
+                    }
+                },
+                {
+                    "id": "801",
+                    "score": 0.878026485,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Date\": \"June 5, 2010\", \"Opponent\": \"New England Revolution\", \"Recipient\": \"Michelle French\", \"Notes\": \"Seattle Sounders Women midfielder\", \"record\": \"List of Golden Scarf recipients 2010 Recipients\"}"
+                    }
+                },
+                {
+                    "id": "797",
+                    "score": 0.876375079,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Date\": \"May 1, 2010\", \"Opponent\": \"Columbus Crew\", \"Recipient\": \"Susan Cole\", \"Notes\": \"Seattle Sounders FC fan\", \"record\": \"List of Golden Scarf recipients 2010 Recipients\"}"
+                    }
+                }
+            ],
+            "namespace": ""
+        }
+    },
+    {
+        "question": "When did Flash Airlines shut down?",
+        "retrievedResults": {
+            "matches": [
+                {
+                    "id": "811",
+                    "score": 0.83557117,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Aircraft\": \"Boeing 737-3Q8\", \"Registration\": \"SU-ZCD\", \"Delivered\": \"16 February 2002\", \"Exited\": \"5 March 2004\", \"Fate\": \"Became N271LF with ILFC\", \"record\": \"Flash Airlines Flash Airlines\"}"
+                    }
+                },
+                {
+                    "id": "815",
+                    "score": 0.828406572,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Exited\": [\"3 January 2004\", \"5 March 2004\"], \"record\": \"Flash Airlines Flash Airlines\"}"
+                    }
+                },
+                {
+                    "id": "810",
+                    "score": 0.825399935,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Aircraft\": \"Boeing 737-3Q8\", \"Registration\": \"SU-ZCF\", \"Delivered\": \"22 July 2001\", \"Exited\": \"3 January 2004\", \"Fate\": \"Crashed as Flash Airlines Flight 604\", \"record\": \"Flash Airlines Flash Airlines\"}"
+                    }
+                },
+                {
+                    "id": "816",
+                    "score": 0.822455406,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Fate\": [\"Crashed as Flash Airlines Flight 604\", \"Became N271LF with ILFC\"], \"record\": \"Flash Airlines Flash Airlines\"}"
+                    }
+                },
+                {
+                    "id": "814",
+                    "score": 0.819060147,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Delivered\": [\"22 July 2001\", \"16 February 2002\"], \"record\": \"Flash Airlines Flash Airlines\"}"
+                    }
+                }
+            ],
+            "namespace": ""
+        }
+    },
+    {
+        "question": "What were the font-versions that were available from Core fonts for the Web project published in 2000?",
+        "retrievedResults": {
+            "matches": [
+                {
+                    "id": "849",
+                    "score": 0.839182377,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Font name\": [\"Arial for Windows 9x, NT and Windows 2000\", \"Arial for Apple Mac OS\", \"Arial Black for Windows 9x, NT and Windows 2000\", \"Arial Black for Windows 3.1 and 3.11\", \"Arial Black for Apple Mac OS\", \"Andal\\u00e9 Mono for Windows 9x, NT and Windows 2000\", \"Andal\\u00e9 Mono for Apple Mac OS\", \"Monotype.com for Windows 3.1 and 3.11 (later versions released as Andal\\u00e9 Mono)\", \"Courier New for Windows 9x, NT and Windows 2000\", \"Courier New for Apple Mac OS\", \"Comic Sans MS for Windows 9x, NT and Windows 2000\", \"Comic Sans MS for Windows 3.1 and 3.11\", \"Comic Sans MS for Apple Mac OS\", \"Georgia for Windows 9x, NT and Windows 2000\", \"Georgia for Windows 3.1 and 3.11\", \"Georgia for Apple Mac OS\", \"Impact for Windows 9x, NT and Windows 2000\", \"Impact for Windows 3.1 and 3.11\", \"Impact for Apple Mac OS\", \"Times New Roman for Windows 9x, NT and Windows 2000\", \"Times New Roman for Apple Mac OS\", \"Trebuchet MS for Windows 9x, NT and Windows 2000\", \"Trebuchet MS for Windows 3.1 and 3.11\", \"Trebuchet MS for Apple Mac OS\", \"Verdana for Windows 9x, NT and Windows 2000\", \"Verdana for Windows 3.1 and 3.11\", \"Verdana for Apple Mac OS\", \"Webdings for Windows 9x, NT and Windows 2000\", \"Webdings for Windows 3.1 and 3.11\"], \"record\": \"Core fonts for the Web List of fonts and files\"}"
+                    }
+                },
+                {
+                    "id": "819",
+                    "score": 0.837165475,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"File name\": \"arial32.exe\", \"Font name\": \"Arial for Windows 9x, NT and Windows 2000\", \"Variants\": \"regular, bold, italic, bold italic\", \"Last version\": \"version 2.82\", \"Copyright\": \"Monotype\", \"Sample\": \"-\", \"record\": \"Core fonts for the Web List of fonts and files\"}"
+                    }
+                },
+                {
+                    "id": "846",
+                    "score": 0.835875154,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"File name\": \"webdin32.exe\", \"Font name\": \"Webdings for Windows 9x, NT and Windows 2000\", \"Variants\": \"symbol\", \"Last version\": \"version 1.03\", \"Copyright\": \"Microsoft\", \"Sample\": \"-\", \"record\": \"Core fonts for the Web List of fonts and files\"}"
+                    }
+                },
+                {
+                    "id": "826",
+                    "score": 0.835592031,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"File name\": \"mtcom.exe\", \"Font name\": \"Monotype.com for Windows 3.1 and 3.11 (later versions released as Andal\\u00e9 Mono)\", \"Variants\": \"regular\", \"Last version\": \"version 1.10\", \"Copyright\": \"Monotype\", \"Sample\": \"-\", \"record\": \"Core fonts for the Web List of fonts and files\"}"
+                    }
+                },
+                {
+                    "id": "821",
+                    "score": 0.835532,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"File name\": \"arialb32.exe\", \"Font name\": \"Arial Black for Windows 9x, NT and Windows 2000\", \"Variants\": \"black\", \"Last version\": \"version 2.35\", \"Copyright\": \"Monotype\", \"Sample\": \"-\", \"record\": \"Core fonts for the Web List of fonts and files\"}"
+                    }
+                }
+            ],
+            "namespace": ""
+        }
+    },
+    {
+        "question": "Which medal did Hailu Mekonnen win in the 5000 m at the 1998 African Championships?",
+        "retrievedResults": {
+            "matches": [
+                {
+                    "id": "860",
+                    "score": 0.886391401,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Year\": \"1998\", \"Competition\": \"African Championships\", \"Venue\": \"Dakar, Senegal\", \"Position\": \"2nd\", \"Event\": \"5000 m\", \"Notes\": \"13:38.19\", \"record\": \"Hailu Mekonnen Achievements\"}"
+                    }
+                },
+                {
+                    "id": "877",
+                    "score": 0.876717448,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Year\": \"2003\", \"Competition\": \"All-Africa Games\", \"Venue\": \"Abuja, Nigeria\", \"Position\": \"2nd\", \"Event\": \"5000 m\", \"Notes\": \"13:26.73\", \"record\": \"Hailu Mekonnen Achievements\"}"
+                    }
+                },
+                {
+                    "id": "878",
+                    "score": 0.868716478,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Year\": \"2003\", \"Competition\": \"Afro-Asian Games\", \"Venue\": \"Hyderabad, India\", \"Position\": \"1st\", \"Event\": \"5000 m\", \"Notes\": \"13:49.08\", \"record\": \"Hailu Mekonnen Achievements\"}"
+                    }
+                },
+                {
+                    "id": "859",
+                    "score": 0.86799109,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Year\": \"1998\", \"Competition\": \"World Junior Championships\", \"Venue\": \"Annecy, France\", \"Position\": \"5th\", \"Event\": \"5000 m\", \"Notes\": \"14:06.30\", \"record\": \"Hailu Mekonnen Achievements\"}"
+                    }
+                },
+                {
+                    "id": "866",
+                    "score": 0.866046548,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Year\": \"1999\", \"Competition\": \"All-Africa Games\", \"Venue\": \"Johannesburg, South Africa\", \"Position\": \"1st\", \"Event\": \"1500 m\", \"Notes\": \"3:39.73\", \"record\": \"Hailu Mekonnen Achievements\"}"
+                    }
+                }
+            ],
+            "namespace": ""
+        }
+    },
+    {
+        "question": "What is Revolutionary Communist Party of Britain highest recorded vote?",
+        "retrievedResults": {
+            "matches": [
+                {
+                    "id": "898",
+                    "score": 0.855775177,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Votes\": [\"102\", \"103\", \"125\", \"79\", \"75\", \"88\", \"136\", \"612\"], \"record\": \"Revolutionary Communist Party of Britain (Marxist\\u2013Leninist) October 1974 UK general election\"}"
+                    }
+                },
+                {
+                    "id": "891",
+                    "score": 0.853840649,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Constituency\": \"Bristol South East\", \"Candidate\": \"P. Rowe\", \"Votes\": \"79\", \"Percentage\": \"0.1\", \"Position\": \"6\", \"record\": \"Revolutionary Communist Party of Britain (Marxist\\u2013Leninist) October 1974 UK general election\"}"
+                    }
+                },
+                {
+                    "id": "901",
+                    "score": 0.852776051,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"table_page_title\": \"Revolutionary Communist Party of Britain (Marxist\\u2013Leninist)\", \"record\": \"Revolutionary Communist Party of Britain (Marxist\\u2013Leninist) October 1974 UK general election\"}"
+                    }
+                },
+                {
+                    "id": "896",
+                    "score": 0.852636397,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Constituency\": [\"Battersea North\", \"Birmingham Handsworth\", \"Brighton Kemptown\", \"Bristol South East\", \"Cardiff South East\", \"Lambeth Central\", \"Leicester South\", \"Portsmouth South\"], \"record\": \"Revolutionary Communist Party of Britain (Marxist\\u2013Leninist) October 1974 UK general election\"}"
+                    }
+                },
+                {
+                    "id": "888",
+                    "score": 0.843614221,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Constituency\": \"Battersea North\", \"Candidate\": \"Carole Reakes\", \"Votes\": \"102\", \"Percentage\": \"0.4\", \"Position\": \"5\", \"record\": \"Revolutionary Communist Party of Britain (Marxist\\u2013Leninist) October 1974 UK general election\"}"
+                    }
+                }
+            ],
+            "namespace": ""
+        }
+    },
+    {
+        "question": "What were the number of child deaths in 2014, 2015, and 2016 at Gorakhpur Hospital?",
+        "retrievedResults": {
+            "matches": [
+                {
+                    "id": "904",
+                    "score": 0.9085868,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Year\": \"2015\", \"Children admitted\": \"61,295\", \"Total child deaths\": \"6,917\", \"Child deaths per day\": \"19\", \"record\": \"2017 Gorakhpur hospital deaths Child deaths\"}"
+                    }
+                },
+                {
+                    "id": "905",
+                    "score": 0.908573151,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Year\": \"2016\", \"Children admitted\": \"60,891\", \"Total child deaths\": \"6,121\", \"Child deaths per day\": \"17\", \"record\": \"2017 Gorakhpur hospital deaths Child deaths\"}"
+                    }
+                },
+                {
+                    "id": "903",
+                    "score": 0.907644868,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Year\": \"2014\", \"Children admitted\": \"51,018\", \"Total child deaths\": \"5,850\", \"Child deaths per day\": \"16\", \"record\": \"2017 Gorakhpur hospital deaths Child deaths\"}"
+                    }
+                },
+                {
+                    "id": "906",
+                    "score": 0.900574923,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Year\": \"2017 (Till 2 Sep)\", \"Children admitted\": \"Not available\", \"Total child deaths\": \"1,317\", \"Child deaths per day\": \"5.3\", \"record\": \"2017 Gorakhpur hospital deaths Child deaths\"}"
+                    }
+                },
+                {
+                    "id": "909",
+                    "score": 0.898034573,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Total child deaths\": [\"5,850\", \"6,917\", \"6,121\", \"1,317\"], \"record\": \"2017 Gorakhpur hospital deaths Child deaths\"}"
+                    }
+                }
+            ],
+            "namespace": ""
+        }
+    },
+    {
+        "question": "In which two events does Macarena Reyes hold Chilean records?",
+        "retrievedResults": {
+            "matches": [
+                {
+                    "id": "934",
+                    "score": 0.85250324,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Event\": \"Heptathlon\", \"Record\": \"5360 pts\", \"Athlete\": \"Macarena Reyes\", \"Date\": \"19\\u201320 June 2009\", \"Meet\": \"South American Championships\", \"Place\": \"Peru Lima, Peru\", \"Ref\": \"-\", \"record\": \"List of Chilean records in athletics Women\"}"
+                    }
+                },
+                {
+                    "id": "928",
+                    "score": 0.848018408,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Event\": \"Long jump\", \"Record\": \"6.60 m (+0.9 m/s)\", \"Athlete\": \"Macarena Reyes\", \"Date\": \"2 June 2012\", \"Meet\": \"Campeonato Metropolitano\", \"Place\": \"Chile Santiago de Chile, Chile\", \"Ref\": \"-\", \"record\": \"List of Chilean records in athletics Women\"}"
+                    }
+                },
+                {
+                    "id": "940",
+                    "score": 0.825801492,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Event\": \"4 \\u00d7 400 m relay\", \"Record\": \"3:37.42\", \"Athlete\": \"Chile Paula Go\\u00f1i Josefina Guti\\u00e9rrez Isidora Jim\\u00e9nez Mar\\u00eda Fernanda Mackenna\", \"Date\": \"16 March 2014\", \"Meet\": \"South American Games\", \"Place\": \"Chile Santiago, Chile\", \"Ref\": \"-\", \"record\": \"List of Chilean records in athletics Women\"}"
+                    }
+                },
+                {
+                    "id": "917",
+                    "score": 0.821578145,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Event\": \"1500 m\", \"Record\": \"4:13.07\", \"Athlete\": \"Alejandra Ramos\", \"Date\": \"15 September 1990\", \"Meet\": \"Ibero-American Championships\", \"Place\": \"Brazil Manaus, Brazil\", \"Ref\": \"-\", \"record\": \"List of Chilean records in athletics Women\"}"
+                    }
+                },
+                {
+                    "id": "939",
+                    "score": 0.817858458,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Event\": \"4 \\u00d7 100 m relay\", \"Record\": \"44.83\", \"Athlete\": \"Chile Paula Go\\u00f1i Josefina Guti\\u00e9rrez Isidora Jim\\u00e9nez Mar\\u00eda Fernanda Mackenna\", \"Date\": \"13 June 2015\", \"Meet\": \"South American Championships\", \"Place\": \"Peru Lima, Peru\", \"Ref\": \"-\", \"record\": \"List of Chilean records in athletics Women\"}"
+                    }
+                }
+            ],
+            "namespace": ""
+        }
+    },
+    {
+        "question": "Which teams were competing for the Stanley Cup in the 2013-14 NHL season?",
+        "retrievedResults": {
+            "matches": [
+                {
+                    "id": "950",
+                    "score": 0.841566384,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Award\": \"Stanley Cup\", \"Recipient(s)\": \"Los Angeles Kings\", \"Runner(s)-up/Finalists\": \"New York Rangers\", \"record\": \"2013\\u201314 NHL season NHL awards\"}"
+                    }
+                },
+                {
+                    "id": "952",
+                    "score": 0.831958234,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Award\": \"Prince of Wales Trophy (Eastern Conference champion)\", \"Recipient(s)\": \"New York Rangers\", \"Runner(s)-up/Finalists\": \"Montreal Canadiens\", \"record\": \"2013\\u201314 NHL season NHL awards\"}"
+                    }
+                },
+                {
+                    "id": "951",
+                    "score": 0.82069242,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Award\": \"Presidents' Trophy (Best regular-season record)\", \"Recipient(s)\": \"Boston Bruins\", \"Runner(s)-up/Finalists\": \"Anaheim Ducks\", \"record\": \"2013\\u201314 NHL season NHL awards\"}"
+                    }
+                },
+                {
+                    "id": "974",
+                    "score": 0.818353176,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Runner(s)-up/Finalists\": [\"New York Rangers\", \"Anaheim Ducks\", \"Montreal Canadiens\", \"Chicago Blackhawks\", \"Ryan Getzlaf (Anaheim Ducks)\", \"Jaromir Jagr (New Jersey Devils) Manny Malhotra (Carolina Hurricanes)\", \"Tyler Johnson (Tampa Bay Lightning) Ondrej Palat (Tampa Bay Lightning)\", \"N/A\", \"Anze Kopitar (Los Angeles Kings) Jonathan Toews (Chicago Blackhawks)\", \"Ryan Getzlaf (Anaheim Ducks) Claude Giroux (Philadelphia Flyers)\", \"Mike Babcock (Detroit Red Wings) Jon Cooper (Tampa Bay Lightning)\", \"Zdeno Chara (Boston Bruins) Shea Weber (Nashville Predators)\", \"N/A\", \"Patrick Marleau (San Jose Sharks) Martin St. Louis (New York Rangers/Tampa Bay Lightning)\", \"Ryan Getzlaf (Anaheim Ducks) Claude Giroux (Philadelphia Flyers)\", \"Ryan Getzlaf (Anaheim Ducks) Jonathan Toews (Chicago Blackhawks)\", \"Corey Perry (Anaheim Ducks)\", \"Brent Burns (San Jose Sharks) Duncan Keith (Chicago Blackhawks)\", \"Marc Bergevin (Montreal Canadiens) Dean Lombardi (Los Angeles Kings)\", \"Ben Bishop (Tampa Bay Lightning) Semyon Varlamov (Colorado Avalanche)\", \"Tuukka Rask & Chad Johnson (Boston Bruins)\", \"-\"], \"record\": \"2013\\u201314 NHL season NHL awards\"}"
+                    }
+                },
+                {
+                    "id": "969",
+                    "score": 0.816960633,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Award\": \"Vezina Trophy (Best goaltender)\", \"Recipient(s)\": \"Tuukka Rask (Boston Bruins)\", \"Runner(s)-up/Finalists\": \"Ben Bishop (Tampa Bay Lightning) Semyon Varlamov (Colorado Avalanche)\", \"record\": \"2013\\u201314 NHL season NHL awards\"}"
+                    }
+                }
+            ],
+            "namespace": ""
+        }
+    },
+    {
+        "question": "When was the second time that Peque\u00f1o Dami\u00e1n lost his hair?",
+        "retrievedResults": {
+            "matches": [
+                {
+                    "id": "978",
+                    "score": 0.820318341,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Winner (wager)\": \"Peque\\u00f1o Dami\\u00e1n 666 (hair)\", \"Loser (wager)\": \"Toshiya Matsuzaki (hair)\", \"Location\": \"Mexico City, Mexico\", \"Event\": \"DragonMania III\", \"Date\": \"May 11, 2008\", \"Notes\": \"-\", \"record\": \"Demus 3:16 Luchas de Apuestas record\"}"
+                    }
+                },
+                {
+                    "id": "981",
+                    "score": 0.819467247,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Winner (wager)\": \"Peque\\u00f1o Dami\\u00e1n 666 (hair)\", \"Loser (wager)\": \"Yaruba (hair)\", \"Location\": \"Mexico City, Mexico\", \"Event\": \"DragonMania V\", \"Date\": \"May 29, 2010\", \"Notes\": \"-\", \"record\": \"Demus 3:16 Luchas de Apuestas record\"}"
+                    }
+                },
+                {
+                    "id": "979",
+                    "score": 0.811452866,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Winner (wager)\": \"Peque\\u00f1o Dami\\u00e1n 666 (hair)\", \"Loser (wager)\": \"Bam Bam (hair)\", \"Location\": \"Mexico City, Mexico\", \"Event\": \"Live event\", \"Date\": \"August 17, 2008\", \"Notes\": \"-\", \"record\": \"Demus 3:16 Luchas de Apuestas record\"}"
+                    }
+                },
+                {
+                    "id": "984",
+                    "score": 0.810911417,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Winner (wager)\": \"Demus 3:16 (hair)\", \"Loser (wager)\": \"Peque\\u00f1o Black Warrior (hair)\", \"Location\": \"Mexico City, Mexico\", \"Event\": \"Live event\", \"Date\": \"September 18, 2011\", \"Notes\": \"-\", \"record\": \"Demus 3:16 Luchas de Apuestas record\"}"
+                    }
+                },
+                {
+                    "id": "990",
+                    "score": 0.803078651,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Loser (wager)\": [\"Peque\\u00f1o Dami\\u00e1n 666 (hair)\", \"Toshiya Matsuzaki (hair)\", \"Bam Bam (hair)\", \"Peque\\u00f1o Dami\\u00e1n 666 (hair)\", \"Yaruba (hair)\", \"Bam Bam (hair)\", \"Demus 3:16 (hair, division)\", \"Peque\\u00f1o Black Warrior (hair)\", \"Demus 3:16 (hair)\", \"Demus 3:16 (beard)\", \"Dragoncito de Oro (mask)\", \"Gato de Ecatepec (mask)\"], \"record\": \"Demus 3:16 Luchas de Apuestas record\"}"
+                    }
+                }
+            ],
+            "namespace": ""
+        }
+    },
+    {
+        "question": "In what film did Holliday Grainger play Baroness, and what year did that film come out?",
+        "retrievedResults": {
+            "matches": [
+                {
+                    "id": "1010",
+                    "score": 0.848809898,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Year\": \"2012\", \"Title\": \"Anna Karenina\", \"Role\": \"Baroness\", \"Notes\": \"-\", \"record\": \"Holliday Grainger Film\"}"
+                    }
+                },
+                {
+                    "id": "1007",
+                    "score": 0.816522479,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Year\": \"2011\", \"Title\": \"Jane Eyre\", \"Role\": \"Diana Rivers\", \"Notes\": \"-\", \"record\": \"Holliday Grainger Film\"}"
+                    }
+                },
+                {
+                    "id": "1000",
+                    "score": 0.81641835,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Year\": \"2005\", \"Title\": \"Magnificent 7\", \"Role\": \"Louise Jackson\", \"Notes\": \"-\", \"record\": \"Holliday Grainger Film\"}"
+                    }
+                },
+                {
+                    "id": "1023",
+                    "score": 0.811712325,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Role\": [\"Harriet\", \"Older Lisa Bolton\", \"Star Westwood\", \"Louise Jackson\", \"Rose Bushell\", \"Charlotte Cooper\", \"Jenny\", \"Molly Carty\", \"Emily\", \"Colette\", \"Diana Rivers\", \"Samantha\", \"Suzanne Rousset\", \"Baroness\", \"Estella Havisham\", \"-\", \"Lauren\", \"Anastasia Tremaine\", \"Miriam\", \"Louise\", \"Maria\", \"Holly\", \"Lydia Weekes\", \"Laura\"], \"record\": \"Holliday Grainger Film\"}"
+                    }
+                },
+                {
+                    "id": "1011",
+                    "score": 0.807161868,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Year\": \"2012\", \"Title\": \"Great Expectations\", \"Role\": \"Estella Havisham\", \"Notes\": \"-\", \"record\": \"Holliday Grainger Film\"}"
+                    }
+                }
+            ],
+            "namespace": ""
+        }
+    },
+    {
+        "question": "What was the fifth single on Jaria Burns's Album Burn Slow? ",
+        "retrievedResults": {
+            "matches": [
+                {
+                    "id": "1029",
+                    "score": 0.857007205,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Title\": \"\\\"Burn Slow\\\"\", \"Year\": \"2017\", \"Peak chart positions\": \"\\u2014\", \"Album\": \"Burn Slow\", \"record\": \"Jaira Burns As lead artist\"}"
+                    }
+                },
+                {
+                    "id": "1033",
+                    "score": 0.844075,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Title\": \"\\\"Low Key in Love\\\"\", \"Year\": \"2018\", \"Peak chart positions\": \"\\u2014\", \"Album\": \"Burn Slow\", \"record\": \"Jaira Burns As lead artist\"}"
+                    }
+                },
+                {
+                    "id": "1032",
+                    "score": 0.832361519,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Title\": \"\\\"Sugarcoat\\\"\", \"Year\": \"2018\", \"Peak chart positions\": \"\\u2014\", \"Album\": \"Burn Slow\", \"record\": \"Jaira Burns As lead artist\"}"
+                    }
+                },
+                {
+                    "id": "1039",
+                    "score": 0.820928216,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Album\": [\"Album\", \"Non-album single\", \"Burn Slow\", \"Non-album single\", \"Burn Slow\", \"Burn Slow\", \"Burn Slow\", \"Non-album single\", \"TBA\"], \"record\": \"Jaira Burns As lead artist\"}"
+                    }
+                },
+                {
+                    "id": "1031",
+                    "score": 0.817198813,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Title\": \"\\\"Okokok\\\"\", \"Year\": \"2018\", \"Peak chart positions\": \"\\u2014\", \"Album\": \"Burn Slow\", \"record\": \"Jaira Burns As lead artist\"}"
+                    }
+                }
+            ],
+            "namespace": ""
+        }
+    },
+    {
+        "question": "What aircrafts does 28th Air Detachment operate?",
+        "retrievedResults": {
+            "matches": [
+                {
+                    "id": "1047",
+                    "score": 0.853793919,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Aircraft\": [\"Aircraft\", \"Airbus A319\", \"Dassault Falcon 2000\", \"Mi-8\", \"AgustaWestland AW109\"], \"record\": \"28th Air Detachment Fleet\"}"
+                    }
+                },
+                {
+                    "id": "1052",
+                    "score": 0.832387328,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"table_page_title\": \"28th Air Detachment\", \"record\": \"28th Air Detachment Fleet\"}"
+                    }
+                },
+                {
+                    "id": "1046",
+                    "score": 0.830904126,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Aircraft\": \"AgustaWestland AW109\", \"Number\": \"1\", \"Orders\": \"0\", \"Passengers\": \"\\u2014\", \"Notes\": \"LZ-BMB\", \"record\": \"28th Air Detachment Fleet\"}"
+                    }
+                },
+                {
+                    "id": "1043",
+                    "score": 0.82511735,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Aircraft\": \"Airbus A319\", \"Number\": \"1\", \"Orders\": \"0\", \"Passengers\": \"\\u2014\", \"Notes\": \"LZ-AOB\", \"record\": \"28th Air Detachment Fleet\"}"
+                    }
+                },
+                {
+                    "id": "1044",
+                    "score": 0.822081923,
+                    "values": [],
+                    "metadata": {
+                        "chunk": "{\"Aircraft\": \"Dassault Falcon 2000\", \"Number\": \"1\", \"Orders\": \"0\", \"Passengers\": \"\\u2014\", \"Notes\": \"LZ-OOI\", \"record\": \"28th Air Detachment Fleet\"}"
+                    }
+                }
+            ],
+            "namespace": ""
+        }
+    }
+]
